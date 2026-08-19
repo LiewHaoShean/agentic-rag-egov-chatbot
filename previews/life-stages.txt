@@ -1,0 +1,43 @@
+URL: https://www.kwsp.gov.my/en/member/life-stages
+TITLE: Financial Life Stage Withdrawals
+CATEGORY: epf
+DOCUMENT_ID: 36020c5f-01f0-50e6-b87f-7fc3735dd9a3
+==================================================
+
+--- CHUNK 0 ---
+Financial Life Stages
+Last updated: 04-06-2026
+Financial planning isn't just about today's budget; it's about building security for every stage of your life. By staying proactive, you can align your financial approach with your evolving needs, ensuring financial security in retirement. Whether you're just starting your career or carefully planning for retirement, EPF offers withdrawal options designed to help you achieve specific milestones. This ensures that your savings not only grow but are also utilised effectively, addressing your needs at different life stages.
+Withdrawal Categories
+https://www.kwsp.gov.my/en/member/overview/registration
+Registration
+https://www.kwsp.gov.my/en/member/savings/i-saraan
+i-Saraan
+https://www.kwsp.gov.my/en/member/account-centre/nomination
+Nomination
+https://www.kwsp.gov.my/en/member/savings/i-invest
+i-Invest
+https://www.kwsp.gov.my/en/member/account-centre/simpanan-shariah
+Simpanan Shariah
+Category Filter
+
+--- CHUNK 1 ---
+https://www.kwsp.gov.my/en/member/account-centre/simpanan-shariah
+Simpanan Shariah
+Category Filter
+All (https://www.kwsp.gov.my/en/member/life-stages/-/categories/0/#disp-category)
+Age (https://www.kwsp.gov.my/en/member/life-stages/-/categories/64831/#disp-category)
+Full (https://www.kwsp.gov.my/en/member/life-stages/-/categories/64853/#disp-category)
+Partial (https://www.kwsp.gov.my/en/member/life-stages/-/categories/64812/#disp-category)
+Asset Publisher
+Akaun Fleksibel WithdrawalLearn More (https://www.kwsp.gov.my/en/member/life-stages/akaun-fleksibel-withdrawal)
+Education WithdrawalLearn More (https://www.kwsp.gov.my/member/life-stages/education-withdrawal)
+Age 50 WithdrawalLearn More (https://www.kwsp.gov.my/member/life-stages/age-50-withdrawal)
+Age 55 & 60 WithdrawalLearn More (https://www.kwsp.gov.my/member/life-stages/age-55-60-withdrawal)
+Hajj WithdrawalLearn More (https://www.kwsp.gov.my/member/life-stages/hajj-withdrawal)
+
+--- CHUNK 2 ---
+Hajj WithdrawalLearn More (https://www.kwsp.gov.my/member/life-stages/hajj-withdrawal)
+More Than RM1 Million+ WithdrawalLearn More (https://www.kwsp.gov.my/member/life-stages/million-savings)
+i-LegasiLearn More (https://www.kwsp.gov.my/en/member/life-stages/i-legasi)
+

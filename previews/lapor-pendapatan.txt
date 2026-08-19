@@ -1,0 +1,57 @@
+URL: https://www.hasil.gov.my/en/individu/lapor-pendapatan
+TITLE: Lapor Pendapatan
+CATEGORY: tax
+DOCUMENT_ID: aea7f45d-1559-5522-9c40-0b9a0e47161e
+==================================================
+
+--- CHUNK 0 ---
+Lapor Pendapatan
+Individual
+Income Declaration
+Manual
+Hardcopy submission (manually) to Tax Information and Record Management Section, HASiL
+Inland Revenue Board of Malaysia
+Tax Information & Record Management Section
+Tax Operation Department
+Karung Berkunci 00222
+43650 Bandar Baru Bangi
+Selangor Darul Ehsan
+Kindly refer guide notes / explanatory notes which can be accessed from HASiL official portal before filling up
+Tax Return Form and guide notes / explanatory notes may be accessed from HASiL official portal
+www.hasil.gov.my (http://www.hasil.gov.my/en/)
+> Forms > Download Forms > Individual > Year of Assesment. Next, refer to the Guidebook / Explanatory Notes according to the relevant form type
+Online
+Online submission via MyTax at
+https://mytax.hasil.gov.my (https://mytax.hasil.gov.my/)
+Below are steps to activate MyTax account HASiL:
+First Time Login
+Registered taxpayers without digital certificate
+Choose
+Identification Number
+Enter
+Click
+Submit
+System will display
+
+--- CHUNK 1 ---
+Choose
+Identification Number
+Enter
+Click
+Submit
+System will display
+“Digital Certificate does not exist”.
+Select one 1 method to continue registration of digital certificate:
+e-CP55D
+- to continue digital certificate registration via web
+e-KYC
+- to continue digital certificate registration via face identification
+ITRF Deadlines
+MANUAL
+Employment income (BE Form) – on or before 30th April
+Business income (B Form) – on or before 30th June
+ONLINE
+Employment income (e-BE) – on or before 15th May
+Business income (e-B) – on or before 15th July
+(Date of online submission may subject to change. For further information, kindly refer the Return Form (RF) Program on the HASiL Official Portal)
+

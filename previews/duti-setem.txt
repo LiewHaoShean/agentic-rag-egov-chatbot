@@ -1,0 +1,32 @@
+URL: https://www.hasil.gov.my/en/duti-setem
+TITLE: Pengenalan Duti Setem
+CATEGORY: tax
+DOCUMENT_ID: 714211cc-1fdb-51f3-98a7-0d5a57866b47
+==================================================
+
+--- CHUNK 0 ---
+Pengenalan Duti Setem
+Stamp Duty
+Overview of Stamp Duty
+Introduction
+The assessment and collection of Stamp Duty are governed by statutory law, namely the Stamp Act 1949.
+Stamp duties are imposed on instruments and not transactions. An instrument is defined as any written document and in general,- stamp duty is levied on legal, commercial and financial instruments. The person liable to pay stamp duty is set out in the Third Schedule of Stamp Act 1949. The Assessment and Collection of Stamp Duties is sanctioned by statutory law now described as the Stamp Act 1949.
+Types of Duty
+Ad Valorem Duty
+The rate of duty varies according to the nature of the instruments and the consideration stipulated in the instruments or the market value of the property. The imposition of ad valorem duty (that is, according to the value) is on:
+
+--- CHUNK 1 ---
+Instruments of transfer (implementing a sale or gift) of property including marketable securities (meaning loan stocks and shares of public companies listed on the Bursa Malaysia Berhad), shares of other companies and of non-tangible property (e.g. book debts, benefits to legal rights and goodwill).
+Instruments creating interests in property (e.g. Tenancies and Statutory Leases)
+Instruments of security for monies, including instruments creating contracts for payment of monies or obligation for payment of monies (generally described as `Bond`)
+Certain capital market instruments (e.g. Contract Notes)
+Fixed Duty
+Duty is imposed without any relation to the consideration paid or amount stated in the instrument. The imposition of fixed duty is on:
+A number of other legal, commercial, mercantile or capital market instruments (e.g. Power or Letter of Attorney, Articles of Association of a Company, Promissory Notes, Policy of Insurance etc); and
+
+--- CHUNK 2 ---
+A duplicate or a subsidiary or a collateral instrument when it can be shown that the original or principal or primary instrument has been duly stamped.
+Instruments Liable to Stamp Duty
+Instruments liable to stamp duty are those listed in the First Schedule of the
+Stamp Act 1949 (https://www.hasil.gov.my/wp-content/uploads/akta-setem-1949-01072014.pdf)
+

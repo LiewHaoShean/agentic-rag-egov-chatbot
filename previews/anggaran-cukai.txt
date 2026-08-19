@@ -1,0 +1,157 @@
+URL: https://www.hasil.gov.my/en/syarikat/anggaran-cukai
+TITLE: Anggaran Cukai
+CATEGORY: tax
+DOCUMENT_ID: b02fa3b3-5144-59d0-9bb0-fb81c254a592
+==================================================
+
+--- CHUNK 0 ---
+Anggaran Cukai
+Company
+Tax Estimation
+Submission of Estimated Tax Payable Under Section 107C of The Income Tax Act 1967 (ITA)
+Taxpayers categorized as companies, limited liability partnerships (LLPs), trusts, and cooperatives are required to submit the Estimated Tax Payable Form (Form CP204) annually and pay the estimated tax according to the prescribed schedule.
+Submission of Form CP204 and Revised Estimate of Tax Payable Form (Form CP204A) via e-Filing under Subsection 107C(7A)
+Companies are required to submit Form CP204 and Form CP204A via e-Filing starting from the Year of Assessment 2018.
+LLPs, trusts, and cooperatives are required to submit Form CP204 and Form CP204A via e-Filing starting from the Year of Assessment 2019.
+The submission method utilizes a digital certificate through:
+The Tax Agent e-Filing System (TAeF) for all types of tax files.
+The Organization e-Filing System (OeF) for company directors across all file categories.
+e-CP204 Submission Period
+
+--- CHUNK 1 ---
+e-CP204 Submission Period
+For companies already in operation:
+Under subsection 107C(2) of the ITA, companies, LLPs, trusts, and cooperatives that are already operating must submit the e-CP204 no later than 30 days before the commencement of the basis period for a year of assessment.
+For newly established companies:
+Under paragraph 107C(4)(a) of the ITA, for companies, LLPs, trusts, and cooperatives that are newly established and have a first basis period of not less than six (6) months for a year of assessment, the e-CP204 must be submitted within three (3) months from the date operations begin.
+The requirement to submit the e-CP204 no later than 30 days before the commencement of the basis period for a year of assessment, as stated under subsection 107C(2) of the ITA, applies only starting from the second year of assessment, according to paragraph 107C(4)(b) of the ITA.
+Example:
+Basis period for a new business in operation for not less than six (6) months
+
+--- CHUNK 2 ---
+Example:
+Basis period for a new business in operation for not less than six (6) months
+Mawar Sdn. Bhd. was incorporated on 27.02.2021 and commenced business operations on 03.04.2021. Its first accounting period ended on 31.12.2021 (9 months). The company must submit the e-CP204 for the Year of Assessment 2021 no later than 30.06.2021, which is three (3) months from the commencement date of its business operations.
+Monthly installment payments will commence in the 6th month of the basis period for the Year of Assessment 2021, i.e., from the September 2021 installment to May 2022.
+Ros Sdn. Bhd. was incorporated on 27.02.2021 and commenced business operations on 03.04.2021. Its first accounting period ended on 31.12.2021 (9 months). The company must submit the e-CP204 for the Year of Assessment 2021 no later than 30.06.2021, which is three (3) months from the commencement date of its business operations.
+Minimum Amount of Estimated Tax
+
+--- CHUNK 3 ---
+Minimum Amount of Estimated Tax
+Subsection 107C(3) of the ITA stipulates that the minimum amount of estimated tax for a year of assessment must not be less than 85% of the amount of the revised estimate of tax or the amount of the original estimated tax (if no revision is submitted) for the preceding year of assessment.
+Companies, LLPs, trusts, and cooperatives that are newly established can determine the estimated tax payable for the first year of assessment based on the company's projected profits. The estimated tax payable for the first year of assessment will serve as the basis for determining the estimated tax for the subsequent year. The determination of the minimum amount under subsection 107C(3) of the ITA applies only starting from the second year of assessment, as stated in paragraph 107C(4)(b) of the ITA.
+Payment Schedule
+
+--- CHUNK 4 ---
+Payment Schedule
+For companies, LLPs, trusts, and cooperatives already in operation, Subsection 107C(5) of the ITA stipulates that the estimated tax payable must be paid to the Director General of Inland Revenue (DGIR) in equal monthly installments, calculated based on the number of months in the basis period. Each installment must be paid no later than the due date, starting from the 2nd month of the basis period for the year of assessment for which the estimate is submitted.
+For newly established companies, LLPs, trusts, and cooperatives, Subsection 107C(6) of the ITA requires the estimated tax payable to be paid to the DGIR in equal installments, calculated based on the number of months in the basis period. Each installment must be paid no later than the due date, starting from the 6th month of the basis period for the year of assessment for which the estimate is submitted.
+
+--- CHUNK 5 ---
+The due date for each installment is the 15th day of the calendar month, as specified under subsection 107C(12) of the ITA.
+Schedule of the Final Submission Date for Estimated Tax Payable and the Month When Installment Payments Begin
+| Start date of the basis period | Submission Deadline Date | Month Installment Payment Begins |
+| --- | --- | --- |
+| 01/01/2023 | 01/12/2022 | Feb 2023 |
+| 01/02/2023 | 01/01/2023 | March 2023 |
+| 01/03/2023 | 29/01/2023 | Apr 2023 |
+| 01/04/2023 | 01/03/2023 | May 2023 |
+| 01/05/2023 | 31/03/2023 | June 2023 |
+| 01/06/2023 | 01/05/2023 | July 2023 |
+| 01/07/2023 | 31/05/2023 | August 2023 |
+| 01/08/2023 | 01/07/2023 | Sept 2023 |
+| 01/09/2023 | 01/08/2023 | Okt 2023 |
+| 01/10/2023 | 31/08/2023 | Nov 2023 |
+| 01/11/2023 | 01/10/2023 | Dis 2023 |
+| 01/12/2023 | 31/10/2023 | Jan 2024 |
+Example:
+Calculation of Estimated Tax Installment for a Company in Operation for the Year of Assessment 2023:
+| Estimated Tax Amount in the Basis Period | RM130,000 |
+
+--- CHUNK 6 ---
+| Estimated Tax Amount in the Basis Period | RM130,000 |
+| --- | --- |
+| Basis Period | 01/01/2023 – 31/12/2023 |
+| Number of Installments in the Basis Period | 12 |
+| First Installment Starting on February 15 and Ending on January 15 of the Following Year | 130,000/12    = RM10,833.33 Installment 1-11 = RM10,833 Installment 12    = RM10,837 |
+Note: If there is a fractional amount when the estimated tax is divided by the number of months in the basis period, the fractional amount should be added to the final installment.
+Failure to Submit Form CP204
+If a company, LLP, trust, or cooperative fails to submit Form CP204:
+The DGIR will determine the estimated tax payable for a year of assessment by issuing a Notice of Instalment Payment (CP205) under subsection 107C(8) of the ITA.
+
+--- CHUNK 7 ---
+Prosecution action under paragraph 120(1)(f) of the ITA may be taken. If convicted, the penalty could be a fine of not less than RM200 and not more than RM20,000, or imprisonment for a period not exceeding 6 months, or both.
+Amendment of Estimated Tax Payable via Form CP204A
+According to subsection 107C(7) of the ITA, companies, LLPs, trusts, and cooperatives are allowed to amend the estimated tax payable by submitting
+e-CP204A.
+Form CP204 for a year of assessment can be amended in the 6th, 9th, or 11th month, or in all three of these months within the basis period for a year of assessment:
+If the amendment is made in the 6th month, the revised installment may take effect starting from the 5th or 6th installment.
+If the amendment is made in the 9th month, the revised installment may take effect starting from the 8th or 9th installment.
+If the amendment is made in the 11th month, the revised installment will take effect from the 11th installment.
+
+--- CHUNK 8 ---
+Determination of Revised Installment Amount
+The remaining tax installments after the amendment will be adjusted using the following approach:
+Further Inquiries
+For any further questions regarding CP204/204A, please contact the
+Tax Information And Record Management Section (Tax Operations Department) (https://www.hasil.gov.my/en/hubungi-kami/pegawai-perhubungan-awam/sektor-jabatan/)
+via email at
+anggarancukai@hasil.gov.my
+Expand All
+i. If the revised estimated tax exceeds the original installment amount
+If the revised estimated tax exceeds the original installment amount, the remaining estimated tax payable must be paid in installments based on the remaining number of months for payment.
+example:
+| Basis Period for Year of Assessment 2023 | 01.01.2023 – 31.12.2023 |
+| CP204 Submission Deadline Date | 01.12.2022 |
+| Original Estimated Amount in the Basis Period | RM120,000 (RM10,000 monthly) |
+
+--- CHUNK 9 ---
+| Original Estimated Amount in the Basis Period | RM120,000 (RM10,000 monthly) |
+| Revised Estimated Amount in the 6th Month (Effective Starting from the 6th Installment) | RM260,000 |
+| Monthly Installment Calculation for the Remaining 6th to 12th Installments | = (RM260,000 – RM50,000) / 7 = RM30,000 monthly |
+Installment Schedule After Amendment
+| No. of Installments | Due Date | Original Amount (RM) | Revised Amount (RM) |
+| --- | --- | --- | --- |
+| 1 | 15.02.2023 | 10,000.00 | 10,000.00 |
+| 2 | 15.03.2023 | 10,000.00 | 10,000.00 |
+| 3 | 15.04.2023 | 10,000.00 | 10,000.00 |
+| 4 | 15.05.2023 | 10,000.00 | 10,000.00 |
+| 5 | 15.06.2023 | 10,000.00 | 10,000.00 |
+| 6 | 15.07.2023 | 10,000.00 | 30,000.00 |
+| 7 | 15.08.2023 | 10,000.00 | 30,000.00 |
+| 8 | 15.09.2023 | 10,000.00 | 30,000.00 |
+| 9 | 15.10.2023 | 10,000.00 | 30,000.00 |
+| 10 | 15.11.2023 | 10,000.00 | 30,000.00 |
+| 11 | 15.12.2023 | 10,000.00 | 30,000.00 |
+| 12 | 15.01.2024 | 10,000.00 | 30,000.00 |
+
+--- CHUNK 10 ---
+| 11 | 15.12.2023 | 10,000.00 | 30,000.00 |
+| 12 | 15.01.2024 | 10,000.00 | 30,000.00 |
+| Total | 120,000.00 | 260,000.00 |
+ii. If the revised estimated tax is less than the original installment amount
+If the revised estimated tax is less than the original installment amount, installment payments for the following months should be stopped.
+example:
+| Basis Period | 01.04.2023 – 31.03.2024 |
+| CP204 Submission Deadline Date | 01.03.2023 |
+| Original Estimated Amount in the Basis Period | RM360,000 (RM30,000 monthly) |
+| Revised Estimated Amount in the 9th Month (Effective Starting from the 8th Installment) | RM200,000 |
+| Monthly Installment Calculation for the Remaining 8th to 12th Installments | = (RM200,000 – RM210,000) / 5 = None |
+| 1 | 15.05.2023 | 30,000.00 | 30,000.00 |
+| 2 | 15.06.2023 | 30,000.00 | 30,000.00 |
+| 3 | 15.07.2023 | 30,000.00 | 30,000.00 |
+| 4 | 15.08.2023 | 30,000.00 | 30,000.00 |
+| 5 | 15.09.2023 | 30,000.00 | 30,000.00 |
+
+--- CHUNK 11 ---
+| 4 | 15.08.2023 | 30,000.00 | 30,000.00 |
+| 5 | 15.09.2023 | 30,000.00 | 30,000.00 |
+| 6 | 15.10.2023 | 30,000.00 | 30,000.00 |
+| 7 | 15.11.2023 | 30,000.00 | 30,000.00 |
+| 8 | 15.12.2023 | 30,000.00 | 0.00 |
+| 9 | 15.01.2024 | 30,000.00 | 0.00 |
+| 10 | 15.02.2024 | 30,000.00 | 0.00 |
+| 11 | 15.03.2024 | 30,000.00 | 0.00 |
+| 12 | 15.04.2024 | 30,000.00 | 0.00 |
+| Total | 360,000.00 | 210,000.00 |
+

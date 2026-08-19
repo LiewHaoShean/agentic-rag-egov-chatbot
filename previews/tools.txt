@@ -1,0 +1,18 @@
+URL: https://www.kwsp.gov.my/en/others/resource-centre/tools
+TITLE: EPF Calculators
+CATEGORY: epf
+DOCUMENT_ID: 2235c976-58cf-56fc-80cb-75a329dd9aff
+==================================================
+
+--- CHUNK 0 ---
+Calculator
+Calculation Made Easy
+Category Filter
+All (https://www.kwsp.gov.my/en/others/resource-centre/tools/-/categories/0/#disp-category)
+Employer (https://www.kwsp.gov.my/en/others/resource-centre/tools/-/categories/89373/#disp-category)
+Member (https://www.kwsp.gov.my/en/others/resource-centre/tools/-/categories/89329/#disp-category)
+InvestmentCalculate Now (https://www.kwsp.gov.my/en/others/resource-centre/tools/investment-calculator)
+Late Payment ChargesCalculate Now (https://www.kwsp.gov.my/en/others/resource-centre/tools/late-payment-charge-calculator)
+Healthcare Budget PlannerCalculate Now (https://www.kwsp.gov.my/en/others/resource-centre/tools/healthcare-budget-planner)
+Check Contribution Eligibility (https://www.kwsp.gov.my/en/others/resource-centre/tools/contribution-calculator)
+

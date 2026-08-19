@@ -1,0 +1,49 @@
+URL: https://www.hasil.gov.my/en/syarikat/kadar-cukai-syarikat
+TITLE: Kadar Cukai Syarikat
+CATEGORY: tax
+DOCUMENT_ID: 2f204e4c-a8d5-566a-9a3d-6da0424a43d9
+==================================================
+
+--- CHUNK 0 ---
+Kadar Cukai Syarikat
+Company
+Tax Rate of Company
+Expand All
+Year Assessment 2023 - 2024
+Company with paid up capital not more than RM2.5 million and gross business income of not more than RM50 million
+On first RM150,000
+(15%)
+RM150,001 to RM600,000
+(17%)
+RM600,001 and Subsequent Balance
+(24%)
+Company other than the above category
+(24%)
+Year Assessment 2020 - 2022
+On first RM600,000
+(17%)
+Subsequent Balance
+(24%)
+Year of Assessment 2019
+Company with paid up capital not more than RM2.5 million
+On first RM500,000
+(17%)
+(24%)
+Company with paid up capital more than RM2.5 million
+(24%)
+Year Assessment 2017 - 2018
+(18%)
+(24%)
+Year of Assessment 2016
+(19%)
+(24%)
+Year Assessment 2009 to 2015
+(20%)
+(25%)
+Year Assessment 2008
+(20%)
+(26%)
+Year Assessment 2007
+(20%)
+(27%)
+

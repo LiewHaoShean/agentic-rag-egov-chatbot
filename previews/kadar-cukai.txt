@@ -1,0 +1,96 @@
+URL: https://www.hasil.gov.my/en/individu/kadar-cukai
+TITLE: Kadar Cukai
+CATEGORY: tax
+DOCUMENT_ID: ae6e11fb-d331-50dc-901a-f861b7d193af
+==================================================
+
+--- CHUNK 0 ---
+Kadar Cukai
+Individual
+Tax Rate
+Expand All
+Year of Assessment 2023, 2024 & 2025
+| Category | Chargeable Income  (RM) | Calculation (RM) | Rate % | Tax (RM) |
+| --- | --- | --- | --- | --- |
+| A | 0 – 5,000 | On the First 5000 | 0 | 0 |
+| B | 5,001 – 20,000 | On the First 5000 Next 15,000 | – 1 | 0 150 |
+| C | 20,001 – 35,000 | On the First 20,000 Next 15,000 | – 3 | 150 450 |
+| D | 35,001 – 50,000 | On the First 35,000 Next 15,000 | – 6 | 600 900 |
+| E | 50,001 – 70,000 | On the First 50,000 Next 20,000 | – 11 | 1,500 2,200 |
+| F | 70,001 – 100,000 | On the First 70,000 Next 30,000 | – 19 | 3,700 5,700 |
+| G | 100,001 – 400,000 | On the First 100,000 Next 300,000 | – 25 | 9,400 75,000 |
+| H | 400,001 – 600,000 | On the First 400,000 Next 200,000 | – 26 | 84,400 52,000 |
+| I | 600,001 – 2,000,000 | On the First 600,000 Next 1,400,000 | – 28 | 136,400 392,000 |
+| J | Exceeding 2,000,000 | On the First 2,000,000 Next ringgit | – 30 | 528,400 – |
+Year of Assessment 2022
+
+--- CHUNK 1 ---
+Year of Assessment 2022
+| Category | Taxable Income Range (RM) | Calculation (RM) | Rate % | Tax (RM) |
+| D | 35,001 – 50,000 | On the First 35,000 Next 15,000 | – 8 | 600 1,200 |
+| E | 50,001 – 70,000 | On the First 50,000 Next 20,000 | – 13 | 1,800 2,600 |
+| F | 70,001 – 100,000 | On the First 70,000 Next 30,000 | – 21 | 4,400 6,300 |
+| G | 100,001 – 250,000 | On the First 100,000 Next 150,000 | – 24 | 10,700 36,000 |
+| H | 250,001 – 400,000 | On the First 250,000 Next 150,000 | – 24.5 | 46,700 36,750 |
+| I | 400,001 – 600,000 | On the First 400,000 Next 200,000 | – 25 | 83,450 50,000 |
+| J | 600,001 – 1,000,000 | On the First 600,000 Next 400,000 | – 26 | 133,450 104,000 |
+| K | 1,000,001 – 2,000,000 | On the First 1,000,000 Next 1,000,000 | – 28 | 237,450 280,000 |
+| L | Exceeding 2,000,000 | On the First 2,000,000 Next ringgit | – 30 | 517,450 ………. |
+Year of Assessment 2021
+Year of Assessment 2020
+| Taxable Income Range (RM) | Calculation (RM) | Rate % | Tax (RM) |
+
+--- CHUNK 2 ---
+Year of Assessment 2020
+| Taxable Income Range (RM) | Calculation (RM) | Rate % | Tax (RM) |
+| --- | --- | --- | --- |
+| 0 – 5,000 | On the First 5000 | 0 | 0 |
+| 5,001 – 20,000 | On the First 5000 Next 15,000 | – 1 | 0 150 |
+| 20,001 – 35,000 | On the First 20,000 Next 15,000 | – 3 | 150 450 |
+| 35,001 – 50,000 | On the First 35,000 Next 15,000 | – 8 | 600 1,200 |
+| 50,001 – 70,000 | On the First 50,000 Next 20,000 | – 14 | 1,800 2,800 |
+| 70,001 – 100,000 | On the First 70,000 Next 30,000 | – 21 | 4,600 6,300 |
+| 100,001 – 250,000 | On the First 100,000 Next 150,000 | – 24 | 10,900 36,000 |
+| 250,001 – 400,000 | On the First 250,000 Next 150,000 | – 24.5 | 46,900 36,750 |
+| 400,001 – 600,000 | On the First 400,000 Next 200,000 | – 25 | 83,650 50,000 |
+| 600,001 – 1,000,000 | On the First 600,000 Next 400,000 | – 26 | 133,650 104,000 |
+| 1,000,001 – 2,000,000 | On the First 1,000,000 Next 1,000,000 | – 28 | 237,650 280,000 |
+
+--- CHUNK 3 ---
+| 1,000,001 – 2,000,000 | On the First 1,000,000 Next 1,000,000 | – 28 | 237,650 280,000 |
+| Exceeding 2,000,000 | On the First 2,000,000 Next ringgit | – 30 | 517,650 ………. |
+Year of Assessment 2018 & 2019
+| Exceeding 1,000,000 | On the First 1,000,000 Next ringgit | – 28 | 237,650 ………. |
+Year of Assessment 2016 & 2017
+| 20,001 – 35,000 | On the First 20,000 Next 15,000 | – 5 | 150 750 |
+| 35,001 – 50,000 | On the First 35,000 Next 15,000 | – 10 | 900 1,500 |
+| 50,001 – 70,000 | On the First 50,000 Next 20,000 | – 16 | 2,400 3,200 |
+| 70,001 – 100,000 | On the First 70,000 Next 30,000 | – 21 | 5,600 6,300 |
+| 100,001 – 250,000 | On the First 100,000 Next 150,000 | – 24 | 11,900 36,000 |
+| 250,001 – 400,000 | On the First 250,000 Next 150,000 | – 24.5 | 47,900 36,750 |
+| 400,001 – 600,000 | On the First 400,000 Next 200,000 | – 25 | 84,650 50,000 |
+| 600,001 – 1,000,000 | On the First 600,000 Next 400,000 | – 26 | 134,650 104,000 |
+
+--- CHUNK 4 ---
+| 600,001 – 1,000,000 | On the First 600,000 Next 400,000 | – 26 | 134,650 104,000 |
+| Exceeding 1,000,000 | On the First 1,000,000 Next ringgit | – 28 | 238,650 ………. |
+Year of Assessment 2015
+| 0 – 2,500 | On the First 2,500 | 0 | 0 |
+| 2,501 – 5,000 | Next 2,500 | 0 | 0 |
+| 5,001 – 10,000 | On the First 5000 Next 5,000 | – 1 | 0 50 |
+| 10,001 – 20,000 | On the First 10,000 Next 10,000 | – 1 | 50 100 |
+| 100,001 – 150,000 | On the First 100,000 Next 50,000 | – 24 | 11,900 12,000 |
+| 150,001 – 250,000 | On the First 150,000 Next 100,000 | – 24 | 23,900 24,000 |
+| Exceeding 400,000 | On the First 400,000 Next ringgit | – 25 | 84,650 ………. |
+Year of Assessment 2013 & 2014
+| 5,001 – 10,000 | On the First 5000 Next 5,000 | – 2 | 0 100 |
+| 10,001 – 20,000 | On the First 10,000 Next 10,000 | – 2 | 100 200 |
+| 20,001 – 35,000 | On the First 20,000 Next 15,000 | – 6 | 300 900 |
+| 35,001 – 50,000 | On the First 35,000 Next 15,000 | – 11 | 1,200 1,650 |
+
+--- CHUNK 5 ---
+| 35,001 – 50,000 | On the First 35,000 Next 15,000 | – 11 | 1,200 1,650 |
+| 50,001 – 70,000 | On the First 50,000 Next 20,000 | – 19 | 2,850 3,800 |
+| 70,001 – 100,000 | On the First 70,000 Next 30,000 | – 24 | 6,650 7,200 |
+| Exceeding 100,000 | On the First 100,000 Next ringgit | – 26 | 13,850 ………. |
+

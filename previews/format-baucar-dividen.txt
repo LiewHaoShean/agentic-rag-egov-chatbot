@@ -1,0 +1,30 @@
+URL: https://www.hasil.gov.my/en/borang/format-baucar-dividen
+TITLE: Format Baucar Dividen
+CATEGORY: tax
+DOCUMENT_ID: b1254577-0239-5df7-b1eb-8972cd973a14
+==================================================
+
+--- CHUNK 0 ---
+Format Baucar Dividen
+Form
+Format of Dividend Voucher
+Description
+Dividend Voucher
+(Starting from Year of Assessment 2025)
+Notes
+Starting from Year of Assessment 2025, a company, upon paying, crediting or distributing a dividend derived from Malaysia, is
+REQUIRED
+to furnish individual shareholders with a certificate or dividend voucher stating the gross amount of the dividend and the amount of dividend paid or credited.
+If dividends are paid in the form of property other than money, the market value of those property at the time of distribution must be stated on the dividend voucher. The dividend voucher may be referred to for income tax reporting purposes.
+Notes:
+Dividend vouchers in this format must be issued to
+all
+categories of shareholders including corporate shareholders to ensure consistency in tax reporting.
+and
+Sample of Dividend Voucher
+are as follows:
+Format of Dividend Voucher(23.68 KB) (https://www.hasil.gov.my/wp-content/uploads/baucardividen_2025-format.pdf)
+
+--- CHUNK 1 ---
+Sample of Dividend Voucher(56.24 KB) (https://www.hasil.gov.my/wp-content/uploads/baucardividen_2025-sample.pdf)
+

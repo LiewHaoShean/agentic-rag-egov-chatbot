@@ -1,0 +1,141 @@
+URL: https://www.hasil.gov.my/en/borang/kriteria-bncp-tidak-lengkap-yang-tidak-boleh-diterima
+TITLE: Kriteria BNCP Tidak Lengkap Yang Tidak Boleh Diterima
+CATEGORY: tax
+DOCUMENT_ID: fd6fd767-f4c8-5df6-9d13-d8c96dc815ab
+==================================================
+
+--- CHUNK 0 ---
+Kriteria BNCP Tidak Lengkap Yang Tidak Boleh Diterima
+Form
+Criteria on Incomplete ITRF
+Notification
+An incomplete return form which is unacceptable will not be processed and a notification letter will be issued. Penalty under Subsection 112(1) / 112(1A) / Paragraph (1)(b) of the same act shall be taken for late / non-resubmission of the return form to LHDNM
+Expand All
+1. Failure to use the prescribed Return Form issued by IRBM.
+Notes
+PDF format of the Return Form printed from the IRBM Official Portal which does not comply with the printing specification is not allowed.
+The Return Form printed by using own format is not allowed.
+Using the Return Form marked 'For Reference Only' which is printed from the IRBM Official Portal is not allowed.
+The use of PENCIL for filling in the information is not allowed, complete all relevant items in
+BLOCK LETTERS
+and use
+black ink ball point pen.
+The Return Form cannot be sent via fax.
+
+--- CHUNK 1 ---
+BLOCK LETTERS
+and use
+black ink ball point pen.
+The Return Form cannot be sent via fax.
+There are missing pages and appendices from the Return Form submitted by the taxpayer /taxpayer's representative.
+Details
+Accepted Return Form printing specification:
+Paper Type :
+Plain white A4 *
+(210mm x 297mm) /
+80gsm (minimum)
+* Not recycled paper
+Paper Orientation : Potrait
+Printing Technology : Laser
+Printing Colour : Black/ Pure Black / Monochrome
+Printing Quality : Single sided / 1 sheet per page / 300 dpi
+The taxpayer is required to ensure that the pages and appendices in the Return Form are adequate as per the original Return Form issued by IRBM.
+2. Failure to use the prescribed Return Form issued by IRBM for the relevant year of assessment.
+Notes
+The year of assessment printed on the Return Form should not be altered except for the issuance of Tax Clearance Letter.
+Details
+The taxpayer is required to use the Return Form prescribed by IRBM for the relevant year of assessment.
+
+--- CHUNK 2 ---
+3. Error in the basic information entered in the Return Form.
+Notes
+There is error in the basic information given in the Return Form such as:
+Name
+Identification Number
+or
+Registration Number
+Details
+The taxpayer is required to ensure that all information submitted is true and accurate. If the current information is different from the information previously reported to IRBM, the taxpayer is required to enclose a copy of the Notice of Registration of New Name / Certificate of Incorporation / identity card / passport.
+4. Error or failure in filling up the complete date of the accounting period and / or basis period in the Return Form.
+Notes
+Only applicable to the Return Form for C1, PT, TA, TC, TR and TN.
+Details
+The taxpayer is required to ensure that the date of the accounting period and basis period are correct and complete.
+5. Non-submission of group relief claim form [Form (RK-T) / Form (RK-S)] for Form TN.
+Notes
+Applicable to Form TN only.
+Details
+
+--- CHUNK 3 ---
+Notes
+Applicable to Form TN only.
+Details
+The business trust which claims / surrenders loss under the group relief provision is required to submit Form (RK-T) / Form (RK-S) for Form TN, whichever applies.
+6. Mistake in the amount entered and tax computation error in the Return Form.
+Notes
+Part: Income until Tax Payable /Repayable
+Mistake in the amount entered for items in the sections from 'Income' until 'Tax Payable / Tax Repayable'.
+Part: Tax Payable
+The sum of amounts in the column under 'Apportionment of Chargeable Income' is different from the amount in the 'Chargeable Income' item.
+There is amount entered in the 'Chargeable Income' item but the tax computation is not shown.
+The apportionment of Chargeable Income is not according to the tax schedule issued by IRBM.
+Use of incorrect tax rate.
+'Total Income Tax' is different from the income tax computation.
+Incorrect total Chargeable Income due to mathematical error.
+
+--- CHUNK 4 ---
+Incorrect total Chargeable Income due to mathematical error.
+The amount for 'Tax Payable' item is wrongly entered in the 'Tax Repayable' item or vice-versa.
+Amount claimed under 'Section 132 and 133 tax relief' exceeds the amount of 'Total Tax Charged'.
+Details
+The taxpayer must ensure that the amount inserted and the tax computation are correct and accurate.
+7. The particulars given in the 'Declaration' section of the Return Form is either incorrectly filled or incomplete.
+Notes
+No information for the following:
+Name
+Identification / Passport No
+Designation
+Signature
+No signature
+The signature is outside the box provided in the form.
+Use of signature stamp.
+The Return Form is not signed by a person who is empowered to sign (on behalf of a company / body of persons) as required under the Income Tax Act 1967.
+Particulars in the 'Declaration' section is different from the taxpayer's basic information although the declaration indicates that 'This return form is made on my own behalf'.
+
+--- CHUNK 5 ---
+Details
+Return Form which is not duly signed will not be processed. Signature stamp is not allowed. The particulars filled in this section must be correct and complete.
+8. Address details not filled in or incomplete.
+Notes
+No mailing address information.
+Details
+The return form will not be processed. Details in this section must be filled correctly and completely.
+9. Date of approval by the Minister as a knowledge worker or expert worker
+Notes
+There is no information on the date approved by the minister.
+Details
+10. Incomplete C.P.8D Statement
+Notes
+Unable to process the data submitted.
+C.P.8D is submitted using modes other than e-CP8D, e-mail or USB drive.
+Submisson of C.P.8D for more than one employer within one USB drive is NOT allowed.
+Failure to use the format prescribed by IRBM for C.P.8D information in the USB drive.
+Details
+The allowed device for C.P.8D submission is USB drive.
+Submission  of C.P.8D via e-mail facility must be sent to the address
+CP8D@hasil.gov.my
+
+--- CHUNK 6 ---
+Submission  of C.P.8D via e-mail facility must be sent to the address
+CP8D@hasil.gov.my
+11. Incomplete Notification of Change in Accounting Period (CP204B)
+Notes
+The declaration section is incomplete.
+Signature on behalf of / photocopy signature / position stated in the declaration section is not accepted.
+The Accounting period and the Basis period are not the same.
+The company name and the information in LHDNM records are not the same.
+Details
+Only a competent office holder, as mentioned in the declaration section of the form, can sign CP204B.
+A copy of the director's resolution must be submitted by taxpayer.
+A copy of the Certificate of Incorporation of Company (Section 17 of the Companies Act 2016) and the Certificate of Incorporation on Change of Name of Company from SSM must be submitted by taxpayer.
+

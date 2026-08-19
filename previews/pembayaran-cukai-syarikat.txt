@@ -1,0 +1,50 @@
+URL: https://www.hasil.gov.my/en/syarikat/pembayaran-cukai-syarikat
+TITLE: Pembayaran Cukai
+CATEGORY: tax
+DOCUMENT_ID: 4540c2fb-db51-59ef-bc1b-8e28977cc44a
+==================================================
+
+--- CHUNK 0 ---
+Pembayaran Cukai
+Syarikat
+Skim Ansuran CP204
+Syarikat, perkongsian liabiliti terhad, badan amanah dan koperasi
+yang belum memulakan operasi
+tidak perlu mengemukakan Borang CP204.
+Bagi syarikat yang telah sedia beroperasi, anggaran cukai hendaklah dibayar secara ansuran yang sama banyak mulai bulan ke 2 tempoh asas bagi sesuatu tahun taksiran.
+Contoh:
+Jumlah bulan dalam tempoh asas
+= 12 bulan
+Anggaran cukai
+= RM12,000
+Ansuran bulanan
+= RM12,000 / 12 = RM1,000
+Bagi syarikat yang baru beroperasi, bayaran ansuran bermula pada bulan ke 6 dalam tempoh asas sesuatu tahun taksiran misalnya dibayar pada bulan ke 6 selepas syarikat memulakan perniagaan.
+Syarikat hendaklah membayar ansuran cukai yang telah dianggarkan selewat-lewatnya pada hari ke 15 setiap bulan.
+Bayaran Baki Cukai
+
+--- CHUNK 1 ---
+Bayaran Baki Cukai
+Apabila cukai sebenar bagi sesuatu tahun taksiran telah ditentukan, baki cukai iaitu cukai sebenar setelah menolak bayaran ansuran (jika ada) hendaklah dibayar tidak lewat daripada hari terakhir 7 bulan selepas tarikh penutupan akaun.
+Denda Di Bawah Skim Ansuran
+Denda dalam bentuk kenaikan cukai akan dikenakan jika:
+Syarikat yang gagal membuat bayaran ansuran bulanan sepenuhnya dalam tempoh ditetapkan, bayaran ansuran bulanan yang tidak dijelaskan akan dinaikkan sebanyak 10% tanpa sebarang notis diperlukan dari HASiL.
+Jika perbezaan di antara cukai sebenar dan anggaran cukai dipinda anggaran asal cukai (jika tiada anggaran cukai dipinda dikemukakan) melebihi 30% dari cukai kena dibayar, cukai akan dinaikkan sebanyak 10% ke atas perbezaan melebihi 30% tanpa sebarang notis tambahan. Formula pengenaan denda ialah:
+Formula pengiraan amaun cukai yang dinaikkan seperti berikut;
+KENAIKAN CUKAI = [ ( AT – ET ) – ( 30% x AT ) ] x 10%
+Di mana:
+AT
+
+--- CHUNK 2 ---
+KENAIKAN CUKAI = [ ( AT – ET ) – ( 30% x AT ) ] x 10%
+Di mana:
+AT
+: Cukai sebenar yang kena dibayar
+ET
+: Anggaran cukai dipinda atau anggaran cukai asal (jika tiada anggaran cukai dipinda dikemukakan).
+Penalti Lewat Bayaran Baki Cukai
+Jika baki cukai tidak dibayar pada tarikh ditetapkan, penalti sebanyak 10% akan dikenakan ke atas baki cukai.
+Rayuan Ke Atas Penalti
+Rayuan secara bertulis dalam tempoh 30 hari dari tarikh Notis Taksiran dikeluarkan perlu dikemukakan kepada Pejabat HASiL berkenaan (Unit Pungutan), jika syarikat tidak bersetuju terhadap penalti lewat bayar yang dikenakan.
+Syarikat perlu menjelaskan tanggungan cukai walaupun rayuan dibuat.
+

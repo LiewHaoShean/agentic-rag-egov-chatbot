@@ -1,0 +1,48 @@
+URL: https://www.hasil.gov.my/en/majikan/pembayaran-pcb
+TITLE: Pembayaran PCB
+CATEGORY: tax
+DOCUMENT_ID: 38a59934-f7e2-5db3-b427-8eb4ce71fa93
+==================================================
+
+--- CHUNK 0 ---
+Pembayaran PCB
+Employers
+MTD Payment
+Submission and Payment of MTD
+MTD is a mechanism in which employers deduct employees’ salaries on a monthly basis for the purpose of paying the employees’ income tax.
+The amount of PCB can be determined either by using the Computerized Payroll Calculation Method or by referring to the e-PCB Schedule via e-CP39 on the HASiL website.
+Submission of the MTD Statement can be made through e-Data PCB / e-PCB / e-CP39, which are provided free of charge on the official HASiL portal at HASiL Official Portal
+www.hasil.gov.my (http://www.hasil.gov.my/en/)
+(MyTax > ezHasil Services
+| Medium Pengemukaan PCB | Pilihan Kaedah Bayaran |
+| --- | --- |
+| e-CP39 e-Data PCB e-PCB | FPX on the HASiL website after completing e-CP39 / e-Data PCB / e-PCB IBG at all bank counters using the PCB / CP39 account number IBG via internet banking using the PCB / CP39 account number Cash at counter (CIMB only) |
+Bank Portal:
+| Bank Agent | Counter | Internet Banking |
+
+--- CHUNK 1 ---
+Bank Portal:
+| Bank Agent | Counter | Internet Banking |
+| --- | --- | --- |
+| Alliance Bank | IBG* | Yes |
+| Affin Bank | – | – |
+| CIMB Bank | Cash / IBG* | Yes |
+| Citibank | IBG* | Yes |
+| Hong Leong Bank | IBG* | Yes |
+| Maybank | IBG* | Yes |
+| Public Bank | IBG* | Yes |
+| RHB Bank | IBG* | Yes |
+| POS Malaysia | Cash | – |
+| Ambank | IBG* | Yes |
+| OCBC Bank | IBG* | Yes |
+| HSBC Bank | IBG* | Yes |
+| Bank Islam | IBG* | Yes |
+| Bank Rakyat | – | Yes |
+| Bank Simpanan Nasional | – | – |
+| Agro Bank | IBG* | Yes |
+| MBSB | IBG* | Yes |
+IBG*
+– (menggunakan nombor Akaun PCB/CP39)
+Perbankan Internet**
+– Pengisian data PCB pekerja dan bayaran di perbankan internet bank
+

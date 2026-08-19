@@ -1,0 +1,237 @@
+URL: https://www.hasil.gov.my/en/perundangan/cukai-pegangan
+TITLE: Cukai Pegangan
+CATEGORY: tax
+DOCUMENT_ID: 02139b84-bf5a-5dee-99ed-b315a0730a9a
+==================================================
+
+--- CHUNK 0 ---
+Cukai Pegangan
+Legislation
+Withholding Tax
+Expand All
+INTRODUCTION - WHAT IS WITHHOLDING TAX
+Withholding tax is an amount withheld by the payer on income received by the payee (individuals / bodies other than individuals), which is derived from Malaysia for certain transactions and paid to the Inland Revenue Board of Malaysia (IRBM).
+‘Payer’ refers to Government, a State Government or a local authority, or a resident person, or any person who claims such payment as an expense in the accounts of a business carried on in Malaysia. He is required to withhold tax on payments made to a resident and non-resident payee.
+Withholding tax that has been deducted correctly and in an orderly manner shall be remitted to the IRBM within one month after paying or crediting the recipient.
+‘Payee’ refers to any person (resident or non-resident) who receives payments from transactions that are subject to withholding tax.
+WITHHOLDING TAX DEDUCTION
+
+--- CHUNK 1 ---
+WITHHOLDING TAX DEDUCTION
+The Income Tax Act 1967 (ITA) provides that where a person (referred herein as "payer") is liable to make a payment as listed below to a payee (resident or non-resident), he shall deduct withholding tax at the prescribed rate from such payment and, (whether such tax has been deducted or not) pay that tax to the Director General of Inland Revenue (DGIR) within one month after such payment has been paid or credited to the resident or non-resident payee.
+Types of Payments, Relevant Provisions, Withholding Tax Rates and Forms
+| Types of Payment | ITA | Withholding
+Tax Rates | Forms |
+| --- | --- | --- | --- |
+| Contract payments to non-resident | Section 107A | 10%, 3% | CP 37A(83.16 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37a-pin-1_2024.pdf) |
+| Interest payments to non-resident persons | Section 109, Part II, Schedule 1 | 15% | CP 37(121.67 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf) |
+
+--- CHUNK 2 ---
+| Royalty payments to non-resident persons | Section 109, Part II, Schedule 1 | 10% | CP 37(121.67 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37-pin-1_2024.pdf) |
+| Interest & royalty payments to non-resident persons (For small-value withholding tax payments only) | Section 109, Part II, Schedule 1 | 15%, 10% | CP 37S(123.94 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37s-pin-1_2025.pdf) |
+| Payments to non-resident Public Entertainers | Section 109A, Part II, Schedule 1 | 15% | CP154 & Tax Calculation issued by IRBM |
+| Payments of special classes of income to non-resident | Section 109B, Part V, Schedule 1 | 10% | CP 37D(72.43 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37d-pin-1_2024.pdf) |
+| Payments of special classes of income to non-resident (For small-value withholding tax payments only) | Section 109B, Part V, Schedule 1 | 10% | CP 37DS(88.32 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37ds_pin-1_2025.pdf) |
+
+--- CHUNK 3 ---
+| Agihan pendapatan dari Pelaburan Harta Tanah (REIT) / Tabung Amanah Harta kepada:
+(i) syarikat bukan pemastautin
+(ii) Pelabur institusi asing
+(iii) selain daripada perenggan (i), (ii) dan syarikat pemastautin | Section 109D, Part X, Schedule 1 | 24%
+10%
+10% | CP 37E(107.04 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37e-pin-1_2024.pdf) |
+| Income distributions by Retail Money Market Fund to unitholders other than an individual | Section 109DA, Part XIX, Schedule 1 | 24% | CP37E(NR)(216.38 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37e-nr-pin-1_2024.pdf) CP37E(R)(215.63 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37e-r-pin-1_2025.pdf) |
+| Agihan pendapatan dari Dana Keluarga / Dana Takaful Keluarga / Dana Am kepada:
+(ii) selain daripada perenggan (i) dan Syarikat pemastautin | Section 109E, Part XI, Schedule 1 | 25%
+8% | CP 37E(T)(120.17 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37e-t-pin-1_2024.pdf) |
+
+--- CHUNK 4 ---
+8% | CP 37E(T)(120.17 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37e-t-pin-1_2024.pdf) |
+| Income under paragraph 4(f) of the ITA | Section 109F, Part XIII, Schedule 1 | 10% | CP 37F(119.01 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37f-pin-1_2024.pdf) |
+| Income derived from withdrawal of a deferred annuity or a private retirement scheme before reaching the age of fifty-five | Section 109G, Part XVI, Schedule 1 | 8% | CP 37G(118.84 KB) (https://www.hasil.gov.my/wp-content/uploads/cp37g-pin-1_2024.pdf) |
+Withholding tax payments can be made through the following methods:
+Manual payment [only bank drafts are accepted at the Payment Counter of the Revenue Management Centre (RMC)]
+Online payment via e-services (e-TT and e-WHT)
+Kesemua bayaran cukai pegangan yang dibuat hendaklah dijana nombor bil untuk membolehkan bayaran tersebut diresitkan.
+
+--- CHUNK 5 ---
+Borang bayaran dan dokumen sokongan bayaran tidak perlu dikemukakan ke LHDNM. Dokumen-dokumen ini hendaklah disimpan dengan teratur dan dikemukakan kepada LHDNM dengan segera sekiranya ada keperluan.
+ENFORCEMENT
+Where a payer fails to deduct and remit any amount of withholding tax due to the DGIR within the stipulated period, that amount which he fails to pay shall be increased by 10% of the amount of withholding tax which he fails to pay and the total sum shall be a debt due from him to the Government and shall be payable to the DGIR.
+Example:
+Royalty paid to non-resident payee on 15/11/2023 =
+RM200,000
+Withholding tax received by IRBM on 20/12/2023 (later than 15/12/2023) =
+RM20,000
+Increase in tax imposed on payer (RM20,000 @ 10%) =
+RM2,000
+
+--- CHUNK 6 ---
+RM20,000
+Increase in tax imposed on payer (RM20,000 @ 10%) =
+RM2,000
+Where the payer fails to deduct and remit withholding tax and / or the increased in tax imposed on him, the payment made to a payee will be disallowed as an expense in the computation of the adjusted income from any source of the payer. Legal action may be taken pursuant to subsection 106(1) of the ITA 1967 against the payer to recover the amount of withholding tax and / or the increased of tax due.
+However, if the payer subsequently pays the withholding tax together with the increased amount, that payment made to the non-resident can be subsequently allowed as a deduction.
+
+--- CHUNK 7 ---
+If a payer claims a deduction in the Income Tax Return Form (ITRF) for expenses that are subject to withholding tax whereas the withholding tax has not been paid or remitted, the DGIR is empowered to impose a penalty under subsection 113(2) of the ITA for submitting an incorrect return. This applies regardless of whether the ITRF has been filed within or after the due date for submission for the relevant year of assessment (YA).
+Where the withholding tax is
+not due for payment
+and no payment or crediting is made to the non-resident payee on or before the due date for submission of the ITRF, a deduction is not allowable under the ITA regardless of whether the withholding tax has been paid or remitted to the DGIR
+Application for Relief Other Than in Respect of Error or Mistake under Section 131A of the ITA
+
+--- CHUNK 8 ---
+Application for Relief Other Than in Respect of Error or Mistake under Section 131A of the ITA
+A payer who has furnished to the DGIR an ITRF for a YA and has paid tax for that YA may file an application for relief if the payer alleges that the assessment relating to that YA is excessive. The assessment is said to be excessive where a deduction is not allowed in respect of payment not due to be paid under subsection 109 of the ITA on the day the ITRF is furnished. The payer may make an application in writing to the DGIR
+within one year after the end of the year the payment is made
+Example:
+ABC Sdn. Bhd. which closes its financial accounts on 31 December each year did not claim royalty expense payable to Seesaw Ltd. for the YA 2023 because the royalty and withholding tax were paid on 30.10.2024. The company may apply for relief under section 131A of the ITA to amend the assessment for the YA 2023 before 31.12.2025.
+CONTRACT PAYMENTS TO NON-RESIDENT
+
+--- CHUNK 9 ---
+CONTRACT PAYMENTS TO NON-RESIDENT
+Contract payments made to non-resident contractors in respect of services under a contract are subject to withholding tax of:
+10% on the service portion of the contract payment on account of the tax which is or may be payable by the non-resident contractor; and
+3% on the service portion of the contract payment which is or may be payable by employees of that non-resident contractor.
+"Services under a contract" refers to services performed or rendered for any work or professional service in Malaysia, under a contract.
+INTEREST PAYMENTS TO NON-RESIDENT
+Interest paid to a non-resident payee is subject to withholding tax at 15% (or any other rate as prescribed under the Double Taxation Agreement between Malaysia and the country where the NR payee is tax resident). This is a final tax.
+Interest is deemed derived from Malaysia if:
+responsibility for payment of the interest lies with the Government, a State Government or a local authority;
+
+--- CHUNK 10 ---
+responsibility for payment of the interest in the basis year for a YA (other than the guarantor) lies with a person who is resident for that basis year; and
+interest is payable in respect of money borrowed by that person and employed in or laid out on assets used in or held for the production of any gross income of that person derived from Malaysia or the debt in respect of which the interest is paid is secured by any property or asset situated in Malaysia; or
+the interest is charged as an outgoing or expense against any income accruing in or derived from Malaysia.
+INTEREST EXEMPTED FROM WITHHOLDING TAX
+Interest paid to a non-resident payee on an approved loan.
+Interest paid to a non-resident payee by any person carrying on banking business or Islamic banking business in Malaysia and licensed under the Financial Services Act 2013 or the Islamic Financial Services Act 2013, or by any other institution approved by the Minister
+other than
+
+--- CHUNK 11 ---
+other than
+interest accruing to a business carried on in Malaysia by a non-resident payee.
+interest on funds required for purposes of maintaining net working funds as prescribed by the Minister.
+Interest paid or credited to any company not resident in Malaysia —
+in respect of securities issued by the Government; or
+in respect of sukuk or debenture issued in Ringgit Malaysia, other than convertible loan stock, approved or authorized by, or lodged with, the Securities Commission.
+Exemption
+shall not apply
+to:
+interest accruing to a place of business in Malaysia of the non-resident
+interest paid or credited to a company in the same group.
+Interest paid or credited to any person including non-resident companies or individuals in respect of sukuk originating from Malaysia, other than convertible loan stock–
+issued in any currency other than Ringgit; and
+approved or authorized by, or lodged with, the Securities Commission, or approved by the Labuan Financial Services Authority.
+
+--- CHUNK 12 ---
+The exemption shall not apply to—
+interest paid or credited to—
+a bank licensed under the Financial Services Act 2013;
+an Islamic bank licensed under the Islamic Financial Services Act 2013; or
+a development financial institution prescribed under the Development Financial Institutions Act 2002.
+Interest paid or credited to any individual, unit trust and listed closed-end fund—
+in respect of securities or bonds issued or guaranteed by the Government; or
+in respect of debentures, or sukuk other than convertible loan stock, approved or authorized by, or lodged with, the Securities Commission; or
+in respect of Bon Simpanan Malaysia issued by the Central Bank of Malaysia.
+Income of a unit trust in respect of interest derived from Malaysia and paid or credited by—
+Provided that the exemption shall not apply to the interest paid or credited to a unit trust that is a wholesale fund which is a money market fund.
+ROYALTY PAYMENTS TO NON-RESIDENT
+
+--- CHUNK 13 ---
+ROYALTY PAYMENTS TO NON-RESIDENT
+Payment of royalty made to non-resident payees is subject to 10% withholding tax (or any other rate as prescribed under the Double Taxation Agreement between Malaysia and the country where non-resident payee is tax resident). It is calculated based on the gross amount of royalty and is considered as a final tax.
+Interpretation of royalty is defines under section 2 of the ITA 1967. Among payments that are considered as royalty payments includes any sums paid as consideration for the use of or the right to use:
+copyrights
+software;
+artistic or scientific works;
+patents;
+designs or models;
+plan;
+secret process or formulae;
+trademarks;
+tapes for radio or television broadcasting;
+motion picture films;
+films or video tapes or other similar reproduction;
+know-how or information concerning technical, industrial, commercial or scientific knowledge, experience or skill;
+visual images or sound transmitted via satellite, cable, fibre optic or similar technology;
+
+--- CHUNK 14 ---
+visual images or sound transmitted via satellite, cable, fibre optic or similar technology;
+radiofrequency spectrum specified in a relevant licence;
+other like property or rights.
+Royalty deemed derived from Malaysia if:
+responsibility for payment of the royalty lies with the Government, a State Government or a local authority;
+responsibility for payment of the royalty in the basis year for a YA lies with a person who is resident for that basis year; or
+the royalty is charged as an outgoing or expense against any income accruing in or derived from Malaysia.
+PAYMENTS TO NON-RESIDENT PUBLIC ENTERTAINERS
+A non-resident public entertainer means a non-resident individual, who carries out the following activities:
+a solo or group performance as an actor, model, circus performer, compere, dancer, entertainer, musician, singer, other artiste, or the exercise of any profession, vocation or employment of a similar nature for cultural, educational, entertainment, religious or any other purposes;
+
+--- CHUNK 15 ---
+the use of the non-resident individual’s intellectual, artistic, musical, personal or physical skill or character for cultural, educational, entertainment, religious or any other purposes;
+lecture, speech, or talk for any purpose; or
+a sporting event or sporting competition of any nature.
+Remuneration or other income in respect of services performed or rendered in Malaysia by a non-resident public entertainer is subject to 15% withholding tax.
+PAYMENTS OF SPECIAL CLASSES OF INCOME PAID NON-RESIDENT
+Special classes of income includes payments:
+for services rendered by the non-resident payee or his employee in connection with the use of property or rights belonging to, or the installation or operation of any plant, machinery or apparatus purchased from the non-resident payee;
+for advice, assistance or services rendered in connection with management or administration of any scientific, industrial or commercial undertaking, venture, project or scheme; or
+
+--- CHUNK 16 ---
+for rent or other payments made under any agreement or arrangement for the use of any moveable property.
+Special classes of income of paragraph (a) and (b) above shall only apply to the amount attributable to services which are performed in Malaysia.
+Payment of special classes of income made to the non-resident payees is subject to 10% withholding tax (or any other rate as prescribed under the Double Taxation Agreement between Malaysia and the country where non-resident payee is tax resident). It is calculated based on the gross amount of income and is considered as a final tax.
+Payment is deemed derived from Malaysia if:
+the responsibility for the payment lies with the Government, a State Government or a local authority;
+the responsibility for the payment lies with a person who is resident in Malaysia for that basis year; or
+the payment is charged as an outgoing or expense in the accounts of a business carried on in Malaysia.
+
+--- CHUNK 17 ---
+Bayaran Royalti, Faedah Dan Pendapatan Kelas Khas Yang Bernilai Kecil
+Withholding tax payments of small value for royalty, interest, and special class income paid to non-residents under Sections 109 and 109B of the Income Tax Act 1967 are allowed to be deferred and paid within the permitted period.
+The eligibility conditions for the deferment of small-value withholding tax payments are as follows:
+The amount of withholding tax does not exceed RM500.00 per payment transaction; and
+The small-value payment transactions occur more than once within the relevant six-month period.
+The permitted payment periods are as follows:
+On or before 30th June for payment transactions made between 1st December of the preceding year and 31st May of the current year; and
+On or before 31st December for payment transactions made between 1st June and 30th November of the current year.
+INCOME DISTRIBUTIONS BY REAL ESTATE INVESTMENT TRUST (REITS) OR PROPERTY TRUST FUNDS TO UNITHOLDERS
+
+--- CHUNK 18 ---
+INCOME DISTRIBUTIONS BY REAL ESTATE INVESTMENT TRUST (REITS) OR PROPERTY TRUST FUNDS TO UNITHOLDERS
+Income distributed to unitholders by approved REITs or Property Trust Fund and listed on Bursa Malaysia are subject to withholding tax as follows:
+24% on income distributed to non-resident company;
+10% on income distributed to foreign investment institutions;
+10% on income distributed to person other than listed in paragraph (a) and (b) above and resident company.
+The income distribution calculated based on the gross amount of income distribute and is considered as a final tax.
+INCOME DISTRIBUTIONS BY RETAIL MONEY MARKET FUND TO UNITHOLDERS OTHER THAN AN INDIVIDUAL
+Income distributed by Retail Money Market Fund to all unitholders except individual are subject to 24% withholding tax. The withholding tax imposed to non-resident payee (except individual) is considered as a final tax.
+
+--- CHUNK 19 ---
+INCOME DISTRIBUTIONS BY FAMILY FUND OR TAKAFUL FAMILY FUND OR GENERAL FUND TO UNITHOLDERS OTHER THAN RESIDENT COMPANY
+Income distributed to unitholders by Family Fund or Takaful Family Fund or General Fund to all unitholders except resident company are subject to withholding tax as follows:
+26% (year of assessment 2008) or 25% (effective year of assessment 2009) on income distributed to non-resident company;
+8% on income distributed to unitholders other than resident company and non-resident company.
+INCOME UNDER PARAGRAPH 4(F) OF THE ITA 1967
+Any income falls under paragraph 4(f) of the ITA 1967 to non-resident persons are subject to 10% withholding tax.
+INCOME DERIVED FROM WITHDRAWAL OF A DEFERRED ANNUITY OR A PRIVATE RETIREMENT SCHEME BEFORE REACHING THE AGE OF FIFTY-FIVE
+
+--- CHUNK 20 ---
+Income of an individual consisting of the total amount received in respect of withdrawal from a deferred annuity or a private retirement scheme where such withdrawal is made before that individual reaches the age of 55, other than the following reasons:
+permanent total disablement;
+serious disease;
+mental disability;
+death;
+permanently leaving Malaysia;
+healthcare; or
+for which such withdrawal shall be in compliance with the criteria as set out in the relevant guidelines of the Securities Commission, is subject to withholding tax at the rate of 8% on every ringgit of that contribution withdrawn. The withholding tax is considered as a final tax.
+DOUBLE TAXATION AVOIDANCE AGREEMENTS (DTAA) AND PROTOCOLS
+Malaysia has concluded 75 effective Double Taxation Avoidance Agreements (DTAA). For information on the applicable DTAA withholding tax rates for interest, royalty and technical fees, please refer to the
+
+--- CHUNK 21 ---
+Double Taxation Avoidance Agreements. (https://www.hasil.gov.my/en/antarabangsa/perjanjian-pengelakan-pencukaian-dua-kali-pppdk/)
+A written confirmation in the form of a letter or certificate from the revenue authority of the relevant country verifying the resident status of the payee is required to eligible for the DTAA rate. The written confirmation should be retained for future compliance reviews.
+Where Malaysia has not entered into a DTAA or there is a limited DTAA with a particular country, the withholding tax rate under domestic tax laws of Malaysia shall prevail.
+Under the DTAA provisions, if the same income is taxed in both countries (Malaysia and a treaty country), the taxpayer (non-resident) may claim tax relief in form of bilateral credit in the country where he is a tax resident.
+

@@ -1,0 +1,119 @@
+URL: https://www.kwsp.gov.my/en/member/savings/voluntary-excess
+TITLE: i-Topup: Contributing More Than The Statutory Rate
+CATEGORY: epf
+DOCUMENT_ID: f5d1387e-4db4-52bc-9ca2-567faf02c477
+==================================================
+
+--- CHUNK 0 ---
+i-Topup
+Contributing More Than The Statutory Rate
+As a salaried employee, you have the option to contribute more towards your retirement savings through i-Topup (formerly known as Voluntary Excess). Either you, your employer, or both may voluntarily contribute at a rate exceeding the statutory rate, as long as you meet the requirements.
+Who Can Apply
+Death Benefit
+Subject to EPF terms and conditions.
+Tax Exemption
+Subject to IRB terms and conditions.
+Annual Dividend
+Enjoy annual dividends on top of your retirement savings.
+Special Incentive
+Up to 15% of total contribution or max RM300 this year.
+Who Can Contribute?
+Employee
+Set up your i‑Topup via the KWSP i‑Akaun app or web portal; OR
+Complete and submit the Notice of Option To Contribute Above The Statutory Rate (Employee’s Share) using
+KWSP 17A/18A (AHL) Form (https://www.kwsp.gov.my/documents/d/guest/borang-permohonan-pendaftaran_kwsp-17a-ahl-_kwsp-18a-pdf)
+to their respective employers.
+Employer
+
+--- CHUNK 1 ---
+to their respective employers.
+Employer
+Employers must key in the i‑Topup (Employer’s Share) application through i‑Akaun (Employer);
+No form is required if employers opt to contribute more than statutory contribution rate for employers.
+Note: Employers need to submit i‑Topup (Employee's Share) and i‑Topup (Employer's Share) applications through i‑Akaun (Employer)
+i-Topup (Formerly Known As Voluntary Excess)
+Who Can Contribute
+The employer or the employee, or both, may choose to contribute more than the stipulated rates under the Third Schedule to the EPF Act 1991. The last rate that you opt for will be your new contribution rate and will remain as so until you and/or your employer submits a cancellation notice.
+Responsive Table
+|  | Salary | Employee A | Employer Contribution Rate (i) | Employer i-Topup (ii) | Employer Contribution (i)+(ii)=B | Payable Contribution A+B |
+| --- | --- | --- | --- | --- | --- | --- |
+
+--- CHUNK 2 ---
+| --- | --- | --- | --- | --- | --- | --- |
+| Employees aged below 60 years old and earns a salary of less than RM5,000 | RM1,000 | 11%=RM110 | 13% | 5% | 18%XRM1,000=RM180 | RM290 |
+| Employees aged below 60 years old and earns a salary of more than RM5,000 | RM6,250 | 11%=RM693 | 12% | 5% | 17%XRM6,250=RM1,062.50 | RM1,755.50=RM1,756 (rounded to the next ringgit) |
+| Employees aged 60 and over with a salary of less than RM5,000 | RM1,000 | 0%=RM0 | 4% | 5% | 9%XRM1,000=RM90 | RM90 |
+| Employees aged 60 and over with a salary of more than RM5,000 | RM6,250 | 0%= RM0 | 4% | 5% | 9%XRM6,250=RM562.50 | RM562.50=RM563 (rounded to the next ringgit) |
+* Third Schedule, EPF Act 1991
+Example of member opting to contribute 5% more than the employee’s share
+|  | Salary | Employee Contribution Rate (i) | Employee i-Topup (ii) | Employee Contribution (i) + (ii) = A | Employer B | Payable Contribution A+B |
+
+--- CHUNK 3 ---
+| Employees aged below 60 years old and earns a salary of less than RM5,000 | RM1,000 | 11% | 5% | 16%XRM1,000=RM160 | 13%=RM130 | RM290 |
+| Employees aged below 60 years old and earns a salary of more than RM5,000 | RM6,250 | 11% | 5% | 16%XRM6,250=RM1,000 | 12%=RM750 | RM1,750.00 |
+| Employees aged 60 and over with a salary of less than RM5,000 | RM1,000 | 0% | 5% | 5%XRM1,000=RM50 | 4%=RM40 | RM90 |
+| Employees aged 60 and over with a salary of more than RM5,000 | RM6,250 | 0% | 5% | 5%XRM6,250=RM312.50 | 4%=RM252 | RM564.50=RM565 (rounded to the next ringgit) |
+Requirements
+Make a selection for i‑Topup via the KWSP i‑Akaun app or web portal; OR
+No form is required for the i‑Topup (Employer's Share) application.
+Note:
+1. The minimum age to register and contribute as an EPF member is age 14. Meanwhile, maximum age of contribution is 75 years old.
+2. Employers need to submit i-Topup (Employee’s Share) and i-Topup (Employer’s Share) application through i-Akaun (Employer).
+
+--- CHUNK 4 ---
+3. The contribution must be paid rounded to the next ringgit.
+Notice Of Revocation For Voluntary Excess
+To cancel the option to contribute in excess of the statutory rate, members must complete KWSP 17A/18A (AHL) Form and submit to the employer. Employers need to submit i-Topup (Employee’s Share) and i-Topup (Employer’s Share) revocation application through i-Akaun (Employer).
+What You Need
+Application To Register / Cancel The Option To Contribute Above The Statutory Rate (Employee’s Share) Form –
+KWSP 17A/18A (AHL) (https://www.kwsp.gov.my/documents/d/guest/borang-permohonan-pendaftaran_kwsp-17a-ahl-_kwsp-18a-pdf)
+Documents
+Download KWSP 17A (AHL)/18A (AHL) (https://www.kwsp.gov.my/documents/20119/44359/Form_BORANG%20PERMOHONAN%20PENDAFTARAN_PEMBATALAN%20MENCARUM%20MELEBIHI%20KADAR%20BERKANUN_BM.pdf/d0da65c3-3fdd-2904-0ed1-a6fcc514b331?t=1703646873831&preview)
+
+--- CHUNK 5 ---
+Download KWSP 17A/18A (AHL) Form (https://www.kwsp.gov.my/documents/d/guest/borang-permohonan-pendaftaran_kwsp-17a-ahl-_kwsp-18a-pdf)
+User Guide for i-Topup Application via KWSP i-Akaun App (https://www.kwsp.gov.my/documents/d/guest/user-guide-i-topup-member-en)
+User Guide (https://www.kwsp.gov.my/documents/d/guest/easy-guide_panduan-pengguna-eve-normal-bm-)
+Frequently Asked Questions: Contributions above the statutory limit through i-Akaun (employer) (https://www.kwsp.gov.my/documents/d/guest/soalan-lazim-e-voluntary-excess-e-ve-bm-)
+Employee i-Topup - FAQ
+1. What is i-Topup?
+i-Topup (formerly known as Voluntary Excess) is a voluntary contribution facility that allows members to contribute more than the statutory contribution rate for either the Employee's Share, the Employer's Share, or both.
+Members may register i-Topup for Employee's Share via the KWSP i-Akaun app or i-Akaun (Member) web portal, subject to employer verification. However, this facility is only available to
+
+--- CHUNK 6 ---
+members who have never applied for i-Topup
+i-Topup for Employer's Share and i-Topup cancellation remains available through i-Akaun (Employer).
+2. When was the i-Topup online application facility via KWSP i-Akaun (Member) implemented?
+i-Topup online application facility via KWSP i-Akaun (Member) has been implemented on
+16 May 2026
+3. Who is eligible to apply for i-Topup?
+The i-Topup application can be made by:
+a) All EPF members (Malaysian and Non-Malaysian) who have not reached the age of 75; AND/OR;
+b) All employers registered with EPF.
+4. How to register for i-Topup (Employee’s Share)?
+a) The member must complete the i-Topup registration application via the KWSP i-Akaun App, i-Akaun web portal (Member) or by submitting the physical form KWSP 17A/18A – Permohonan Pendaftaran / Pembatalan i-Topup (Pilihan Mencarum Melebihi Kadar Berkanun (Syer Pekerja)) to the employer.
+b) Employer is required to key-in the member’s application details submitted physically into i-Akaun (Employer).
+
+--- CHUNK 7 ---
+c) Upon submission of the application by the employee, the employer shall be responsible for making contributions in accordance with the new statutory contribution rate requested by the employee. For further information, employers may refer to the Guide for Contributing Above the Statutory Rate (Employer) via i-Akaun (Employer).
+d) All information entered and processed by the employer must be retained as the employer’s records and does not need to be submitted to the EPF.
+5. How can members check the status of their i-Topup (Employee Share) registration/ cancellation application?
+Members can check the status of their application through i-Akaun (Member), where successful i-Topup registration/cancellation applications will be notified via a message in the Inbox section.
+6. Can self-employed members apply for i-Topup (Employee’s Share)?
+
+--- CHUNK 8 ---
+6. Can self-employed members apply for i-Topup (Employee’s Share)?
+No, self-employed members cannot apply for i-Topup (Employee’s Share). However, self-employed members can make voluntary contributions. For more information, please refer
+here (https://www.kwsp.gov.my/ms/member/contribution)
+7. What is the maximum percentage (%) of contribution deduction that can applied for i-Topup (Employee’s Share)?
+The percentage (%) of contribution deduction that can be applied for i-Topup (Employee’s Share) is subject to all mandatory deductions and any conditions set by the employer related to deductions, as well as the applicable labour law provisions.
+8. How to revoke for i-Topup (Employee’s Share)?
+a) The member must complete the i-Topup revocation application via i-Akaun (Employer)  web portal or by submitting the physical form KWSP 17A/18A – Permohonan Pendaftaran / Pembatalan i-Topup (Pilihan Mencarum Melebihi Kadar Berkanun (Syer Pekerja)) to the employer.
+
+--- CHUNK 9 ---
+b) Employer is required to key-in the details of the member’s i-Topup revocation application submitted physically into i-Akaun (Employer).
+c) Upon submission of the revocation application by the employee, the employer shall be responsible for making contributions in accordance with the original statutory contribution rate before employee submitted i-Topup application. For further information, employers may refer to the
+Easy Guide for i-Topup Registration via i-Akaun (Employer)
+d) All information entered and processed by the employer must be retained as the employer’s records and
+does not need to be submitted to the EPF
+

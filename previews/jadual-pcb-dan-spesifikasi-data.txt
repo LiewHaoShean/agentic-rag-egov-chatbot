@@ -1,0 +1,26 @@
+URL: https://www.hasil.gov.my/en/majikan/jadual-pcb-dan-spesifikasi-data
+TITLE: Jadual PCB dan Spesifikasi Data
+CATEGORY: tax
+DOCUMENT_ID: 2ee559a8-2e63-54fc-9d96-4ef6d4c457b9
+==================================================
+
+--- CHUNK 0 ---
+Jadual PCB dan Spesifikasi Data
+Employers
+MTD Schedule and Data Specifications
+Majikan (Manual) – Jadual PCB
+MTD Schedule 2018(31.11 MB) (https://www.hasil.gov.my/wp-content/uploads/Jadual_PCB_2018.pdf)
+MTD Schedule 2016(31.02 MB) (https://www.hasil.gov.my/wp-content/uploads/Jadual_PCB_2016.pdf)
+Notes:
+Starting from 1 March 2019, the MTD Schedule issued by HASiL is in electronic form, namely the e-PCB Schedule through e-CP39. This module can be accessed through the official HASiL portal at HASiL Official Portal at www.hasil.gov.my
+Employer (Payroll) – Data Specifications
+MTD Calculation Specifications 2026 Using Computerized Calculation(1.31 MB) (https://www.hasil.gov.my/wp-content/uploads/spesifikasi-kaedah-pengiraan-berkomputer-pcb-2026.pdf)
+– (English Version Only)
+Individual Deduction and Rebate Claim Form – Form TP1(466.19 KB) (https://www.hasil.gov.my/wp-content/uploads/bi-tp1-form-2026-1.pdf)
+
+--- CHUNK 1 ---
+Notification Form Relating to Employment with Previous Employers in the Current Year for PCB Purposes – Form TP3(582.11 KB) (https://www.hasil.gov.my/wp-content/uploads/bi-tp3-form-2026-1.pdf)
+Explanatory Notes for TP1(926.26 KB) (https://www.hasil.gov.my/wp-content/uploads/bi-explanatory-notes-for-from-tp1-2026-1.pdf)
+Explanatory Notes for TP3(924.68 KB) (https://www.hasil.gov.my/wp-content/uploads/bi-explanatory-notes-for-form-tp3-2026-1.pdf)
+MTD Testing Question 2026(195.70 KB) (https://www.hasil.gov.my/wp-content/uploads/mtd-testing-question-2026.pdf)
+

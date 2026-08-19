@@ -1,0 +1,38 @@
+URL: https://www.hasil.gov.my/en/perundangan/kesalahan-denda-dan-penalti
+TITLE: Kesalahan, Denda dan Penalti
+CATEGORY: tax
+DOCUMENT_ID: 8aeeed8e-e42f-5d0a-b154-ba837dced242
+==================================================
+
+--- CHUNK 0 ---
+Kesalahan, Denda dan Penalti
+Legislation
+Offences, Fines and Penalties
+Expand All
+| Type Of Offences | Provisions Under the ITA 1967 | Amount Of Fine (RM) |
+| --- | --- | --- |
+| Not returning Income Tax Return Form | 112(1) | 200.00 to 20,000.00 / Imprisonment for a term not exceeding 6 months / Both |
+| Failure (without reasonable excuse) to give notice of chargeability to tax. | 112(1) | 200.00 to 20,000.00 / Imprisonment for a term not exceeding 6 months / Both |
+| Not reporting actual income in the Income Tax Return Form | 113(1)(a) | 1,000.00 to 10,000.00 and 200% of tax undercharged |
+| Give any incorrect information in matters affecting the tax liability of a taxpayer or any other person. | 113(1)(b) | 1,000.00 to 10,000.00 and 200% of tax undercharged |
+| Wilfully and with intent to evade or assist any other person to evade tax | 114(1) | 1,000.00 to 20,000.00 / Imprisonment for a term not exceeding 3 years / Both and 300% of tax undercharged |
+
+--- CHUNK 1 ---
+| Assisting/advising others in preparing Income Tax Return Forms resulting in underpayment of tax | 114(1A) | 2,000.00 to 20,000.00 / Imprisonment for a term not exceeding 3 years / Both |
+| Attempt to leave the country without payment of tax. | 115(1) | 200.00 to 20,000.00 / Imprisonment for a term not exceeding 6 months / Both |
+| Interfering / obstructing IRBM officers from carrying out their duties | 116 | 1,000.00 to 10,000.00 / Imprisonment for a term not exceeding 1 year / Both |
+| Fails (without reasonable excuse) to comply with an order to keep proper records and documentation | 119A | 300.00 to 10,000.00 / Imprisonment for a term not exceeding 1 year / Both |
+| Fails (without reasonable excuse) to comply with a notice asking for certain information as required by IRBM. | 120(1) | 200.00 to 20,000.00 / Imprisonment for a term not exceeding 6 months / Both |
+
+--- CHUNK 2 ---
+| Fails (without reasonable excuse) to give notice on changes of address within 3 months. | 120(1) | 200.00 to 20,000.00 / Imprisonment for a term not exceeding 6 months / Both |
+Income Tax
+| Type Of Offences | Source of Income | Provisions Under the ITA 1967 | Penalty |
+| --- | --- | --- | --- |
+| Paying taxes after April 30 | Besides Business | Section 103(3) | Starting January 1, 2020, 10% increase in tax payable |
+| Paying taxes after June 30 | Business |
+Estimated Income Tax Payment (For Business Income)
+| Type Of Offences | Provisions Under the ITA 1967 | Penalty |
+| Pay installments after 30 days from the due date | 107B(3) | 10% on outstanding installments |
+| Actual tax 30% higher than revised tax estimate | 107B(4) | 10% on the difference between the actual tax balance and the estimated tax that has been made |
+

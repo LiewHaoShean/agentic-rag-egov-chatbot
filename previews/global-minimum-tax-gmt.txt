@@ -1,0 +1,94 @@
+URL: https://www.hasil.gov.my/en/antarabangsa/global-minimum-tax-gmt
+TITLE: Global Minimum Tax (GMT)
+CATEGORY: tax
+DOCUMENT_ID: b93dcf51-7bc1-5521-9e2d-c77a62fbd76b
+==================================================
+
+--- CHUNK 0 ---
+Global Minimum Tax (GMT)
+International
+Introduction
+On 8 October 2021, 136 members of the OECD/G20 Inclusive Framework on Base Erosion Profit Shifting (BEPS) have joined the Statement on the Two-Pillar Solution to Address the Tax Challenges Arising from the Digitalisation of the Economy.
+The Two-Pillar Solution is comprised of Pillar One and Pillar Two. Pillar One aims to ensure a fairer distribution of profits and taxing rights among countries with respect to the largest multinational enterprises (MNEs). Meanwhile, Pillar Two puts a floor on tax competition on corporate income tax through the introduction of a global minimum corporate tax rate that countries can use to protect their tax bases.
+The Global Anti-Base Erosion (GloBE) Rules are the main Pillar Two Rules which set out the scope and mechanism of the new global minimum effective tax rate (ETR) of 15%. A top-up tax will be charged when the group’s ETR in a jurisdiction falls below the 15% level.
+Expand All
+
+--- CHUNK 1 ---
+Expand All
+To whom the GMT apply to?
+The GMT applicable to MNE groups that have an annual consolidated revenue of 750 million euros or more in at least two out of the four years before the tested year.
+What is an MNE group?
+An MNE group means any group that is consolidated for financial accounting purposes and the group includes at least one entity or Permanent Establishment (PE) that is not located in the same jurisdiction of the Ultimate Parent Entity (UPE).
+What is Top-up Tax?
+Top-up tax is a mechanism intended to ensure that MNEs pay a minimum ETR of 15% in each jurisdiction in which they operate. Based on GloBE Rules, the ETR is the total covered taxes divided by the total profit in the jurisdiction. If the MNE’s ETR goes below the minimum in a jurisdiction, a top-up tax amount will be imposed to bring it up to 15%. This top-up tax can be collected through several mechanisms, including Multinational Top-Up Tax (MTT) and Domestic Top-Up Tax (DTT).
+How to calculate the top-up tax?
+
+--- CHUNK 2 ---
+How to calculate the top-up tax?
+The top-up tax is calculated by using the jurisdictional blending mechanism to determine the effective tax rate (ETR) for a jurisdiction. This involves aggregating the results of all consolidated group entities within each jurisdiction to determine the ETR.
+If the jurisdictional ETR is below the minimum rate of 15%, a top-up tax is applied to bring it up to the minimum rate. The following illustrates the calculation of Jurisdictional Top-up Tax:
+The steps to calculate the Top-up Tax can be summarised in the following manner:
+1. Compute each entity’s GloBE Income & Jurisdictional GloBE Income
+2. Compute each entity’s Covered Taxes & Jurisdictional Covered Taxes
+3. Compute Jurisdictional ETR
+Proceed if the ETR is less than 15%
+4. Determine the Top-up Tax Percentage
+5. Compute Jurisdictional Substance Based Income Exclusion (SBIE)
+6. Determine the Jurisdictional Excess Profit
+7. Calculate the Jurisdictional Top-up Tax
+
+--- CHUNK 3 ---
+6. Determine the Jurisdictional Excess Profit
+7. Calculate the Jurisdictional Top-up Tax
+8. Determine each entity’s Top-up Tax (in proportion to the entity’s GloBE Income)
+The steps above is applicable in the computation of both the Multinational Top-up Tax (MTT) and Domestic Top-up Tax (DTT).
+However, there is a major difference in the formula to compute the DTT. When computing the DTT, the QDMTT portion in the formula above is removed to prevent a circular computation.
+In conclusion, the
+Jurisdictional DTT = Excess Profit ×Top-up Tax Percentage
+What is QDMTT?
+Qualified Domestic Minimum Top-up Tax (QDMTT) refers to a minimum tax that is included in the domestic law of a jurisdiction and determines the Excess Profits of the Constituent Entities located in the jurisdiction (Domestic Excess Profits) in a manner that is equivalent to the GloBE Rules. Malaysia is in the midst of ensuring our Domestic Top-up Tax (DTT) legislation meets the definition of QDMTT.
+
+--- CHUNK 4 ---
+What is Malaysia’s position on GloBE Rules?
+Malaysia announced its commitment to implementing the Global Minimum Tax (GMT) during the Budget 2024 speech, targeting MNE Groups with consolidated revenues of EUR 750 million or more in at least two of the four consecutive Financial Years immediately preceding the tested Financial Year.
+With the enactment of the Finance (No. 2) Bill 2023 on 29 December 2023, the GloBE Rules have been incorporated into Malaysian tax law. Multinational Top-up Tax (MTT) and the Domestic Top-up Tax (DTT) are effective from the financial year beginning on or after 1 January 2025.
+This adoption reflects Malaysia’s commitment to curbing tax base erosion and profit shifting while maintaining its competitiveness in the global market. By aligning with international tax standards, Malaysia supports fair taxation and at the same time safeguards its tax revenue base.
+A - MAIN REFERENCE MATERIALS
+
+--- CHUNK 5 ---
+A - MAIN REFERENCE MATERIALS
+Model GloBE Rules (Published 20/12/2021)(1.21 MB) (https://www.hasil.gov.my/wp-content/uploads/model-globe-rules-published-20-december-2021.pdf)
+Commentary to the GloBE Rules :
+First Edition (Published 14/03/2022)(3.51 MB) (https://www.hasil.gov.my/wp-content/uploads/commentary-to-the-globe-rules-first-edition-published-14-march-2022.pdf)
+Consolidated Commentary (2023) (Published 25/04/2024)(4.39 MB) (https://www.hasil.gov.my/wp-content/uploads/consolidated-commentary-to-the-globe-rules-2023.pdf)
+Consolidated Commentary to Model GloBE Rules (Published 09/05/2025)(4.87 MB) (https://www.hasil.gov.my/wp-content/uploads/3-oecd-consolidated-commentary-to-model-globe-rules-09052025.pdf)
+Consolidated Commentary to Model GloBE Rules (2026) (Published 28052026) NEW!(5.87 MB) (https://www.hasil.gov.my/wp-content/uploads/Consolidated-Commentary-to-Model-GloBE-Rules-2026-Published-28052026.pdf)
+Agreed Administrative Guidance (AAG):
+
+--- CHUNK 6 ---
+Agreed Administrative Guidance (AAG):
+Safe Harbours and Penalty Relief (Published 20/12/2022)(459.60 KB) (https://www.hasil.gov.my/wp-content/uploads/safe-harbours-and-penalty-relief-published-20-december-2022.pdf)
+AAG (Published 02/02/2023)(1.27 MB) (https://www.hasil.gov.my/wp-content/uploads/agreed-administrative-guidance-on-the-globe-rules-published-2-february-2023.pdf)
+AAG (Published 17/07/2023)(1.05 MB) (https://www.hasil.gov.my/wp-content/uploads/agreed-administrative-guidance-on-the-globe-rules-published-17-july-2023.pdf)
+AAG (Published 18/12/2023)(465.78 KB) (https://www.hasil.gov.my/wp-content/uploads/administrative-guidance-on-the-global-anti-base-erosion-model-rules-published-18-december-2023.pdf)
+AAG (Published 17/06/2024)(3.01 MB) (https://www.hasil.gov.my/wp-content/uploads/ag-published-17-june-2024.pdf)
+AAG (Published 15/01/2025) (Article 8)(389.85 KB) (https://www.hasil.gov.my/wp-content/uploads/09-oecd-administrative-guidance-on-article-814-815-jan-2025.pdf)
+
+--- CHUNK 7 ---
+AAG (Published 15/01/2025) (Article 9)(389.85 KB) (https://www.hasil.gov.my/wp-content/uploads/09-oecd-administrative-guidance-on-article-814-815-jan-2025.pdf)
+AAG (Published 05/01/2026) (Side-by-Side Package) NEW!(1,015.95 KB) (https://www.hasil.gov.my/wp-content/uploads/oecd-side-by-side-package.pdf)
+Guidance on the GloBE Information Return (GIR):
+Guidance (Published 17/07/2023)(1.32 MB) (https://www.hasil.gov.my/wp-content/uploads/globe-information-return-published-17-july-2023.pdf)
+Guidance (Published 15/01/2025)(1.79 MB) (https://www.hasil.gov.my/wp-content/uploads/11-oecd-globe-information-return-pillar-two-jan-2025.pdf)
+GIR (Pillar Two) XML Schema(4.35 MB) (https://www.hasil.gov.my/wp-content/uploads/globe-information-return-pillar-two-xml-schema.pdf)
+Guidance (Published 08062026) NEW!(788.83 KB) (https://www.hasil.gov.my/wp-content/uploads/Guidance-on-the-Use-of-the-GIR-XML-Schema-and-Validation-Rules-for-First-GIR-Filings-and-Exchanges-Published-08062026.pdf)
+
+--- CHUNK 8 ---
+B - SUPPLEMENTARY REFERENCE MATERIALS
+Summary : Pillar Two Model Rules in A Nutshell(322.57 KB) (https://www.hasil.gov.my/wp-content/uploads/summary-pillar-two-model-rules-in-a-nutshell.pdf)
+Pillar Two Model Rules Fact Sheets(169.72 KB) (https://www.hasil.gov.my/wp-content/uploads/pillar-two-model-rules-fact-sheets.pdf)
+Minimum Tax Implementation Handbook (Published 11/10/2023)(1.50 MB) (https://www.hasil.gov.my/wp-content/uploads/minimum-tax-implementation-handbook-published-11-october-2023.pdf)
+Illustrative Examples-Updated (Published 02/05/2025)(2.63 MB) (https://www.hasil.gov.my/wp-content/uploads/tax-challenges-arising-from-the-digitalisation-of-the-economy-global-anti-erosion-model-rules-pillar-two-examples.pdf)
+FOR RELATED GMT ISSUES, PLEASE CONTACT US :
+tf2p@hasil.gov.my
+

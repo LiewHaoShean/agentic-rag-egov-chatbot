@@ -1,0 +1,34 @@
+URL: https://www.hasil.gov.my/en/individu/pendaftaran
+TITLE: Pendaftaran
+CATEGORY: tax
+DOCUMENT_ID: 99d4d589-ce48-523b-a420-7b48a3353c1a
+==================================================
+
+--- CHUNK 0 ---
+Pendaftaran
+Individual
+Registration
+Manual
+Effective from 1 January 2024, application for Tax Identification Number (TIN) registration for individual shall be made through online via e-Daftar application at MyTax Portal
+https://mytax.hasil.gov.my
+Automatic
+Automatic TIN Registration :
+Registration of tax identification numbers (TIN) for individual citizens and permanent residents aged 18 and above is automatic through data obtained from National Registration Department (JPN - Jabatan Pendaftaran Negara).
+Registered TIN can be checked through the following methods:
+MyTax portal at the link
+HASiL Contact Center at 03-89111000 / 603-89111100 (Overseas); or
+Any nearby HASiL office
+Online (e-Daftar)
+Effective from 1 January 2024, application for Tax Identification Number (TIN) for individual shall be made through online via e-Daftar at MyTax Portal,
+as follows:
+| No. | INDIVIDUAL CATEGORY | FILE TYPE | SUPPORTING DOCUMENTS |
+| --- | --- | --- | --- |
+
+--- CHUNK 1 ---
+| No. | INDIVIDUAL CATEGORY | FILE TYPE | SUPPORTING DOCUMENTS |
+| --- | --- | --- | --- |
+| 1. | Non-citizen or non-resident / foreign individual | IG | A copy of passport (still valid); or Relevant documents such as a copy of visit pass, copy of UNHCR card, copy of IMM13 pass, identification number from country of origin, other identification number, or other related documents; and A copy of the business registration certificate for sole proprietorship / partnership issued by SSM; A copy of a stamped agreement / joint venture agreement; or A copy of a partnership agreement that does not combine resources, profits / losses, assets and operates activities separately; or A copy of the registration certificate from a registrar / recognised professional body; * Items (iii) – (vi) are applicable to individuals carrying on a business only |
+
+--- CHUNK 2 ---
+| 2. | Temporary resident | IG | A Copy of the Temporary Resident Identity Card (MyKAS); A copy of the business registration certificate for sole proprietorship / partnership issued by SSM; A copy of a stamped agreement / joint venture agreement; or A copy of a partnership agreement that does not combine resources, profits / losses, assets and operates activities separately; or A copy of the registration certificate from a registrar / recognised professional body; * Items (ii) – (v) are applicable to individuals carrying on a business only |
+

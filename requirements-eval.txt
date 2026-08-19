@@ -1,0 +1,9 @@
+# Offline evaluation harness ONLY — heavy, not needed by the API/worker runtime.
+# Install separately when running retrieval/answer evaluation batches:
+#   pip install -r requirements-eval.txt
+#
+# NOTE: deepeval 2.1.6 (the version originally pinned) was never published; the
+# released line goes ...1.6.2, 2.0, 2.2.0... Use a current 3.x release, which
+# supports Python 3.13.
+deepeval>=3.0,<4
+# uptrain                 # optional alternative evaluator; enable if used instead

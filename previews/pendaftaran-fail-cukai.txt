@@ -1,0 +1,51 @@
+URL: https://www.hasil.gov.my/en/syarikat/pendaftaran-fail-cukai
+TITLE: Pendaftaran Fail Cukai
+CATEGORY: tax
+DOCUMENT_ID: 5ec09c97-1588-5b88-96a6-905a4a462193
+==================================================
+
+--- CHUNK 0 ---
+Pendaftaran Fail Cukai
+Company
+Tax File Registration
+Who need to register company tax file?
+Registration of company's tax file is the responsibility of the individual who managing and operating the company.
+Where a company commenced operations; they need to apply for registration of Tax Identification Number (TIN). Companies, limited liability partnerships, trust bodies and cooperative societies which are dormant and/or have not commenced business are required to register and furnish Form E with effect from Year of Assessment 2014. For further reference please refer
+Return Form (RF) Filing Programme (https://www.hasil.gov.my/en/borang/program-memfail-borang-nyata/)
+How to Register Tax File?
+From 1 January 2024, application for Tax Identification Number (TIN) registration for Company must be made online through the e-Daftar application at MyTax Portal,
+https://mytax.hasil.gov.my
+
+--- CHUNK 1 ---
+https://mytax.hasil.gov.my
+TIN for company (C) is automatically registered for newly incorporated companies (local companies or foreign companies) that have registered online with the Companies Commission of Malaysia (SSM) via MyCoID Portal.
+Documents Required for Registration
+Please submit:
+Private Limited Company (Sdn. Bhd.) or Public Limited Company (Bhd.):
+A copy of the Notice of Registration issued under Section 15 of the Companies Act 2016; and
+A copy of the Certificate of Incorporation issued under Section 17 of the Companies Act 2016; or
+A copy of the Notice of Registration of Change of Company Name issued under Section 28 of the Companies Act 2016 (where applicable); and
+A copy of the latest Company Profile
+Items (i)–(iii) must be issued by the Companies Commission of Malaysia (SSM)
+Foreign Company or Overseas Company:
+A copy of the Notice of Registration of a Foreign Company issued under Section 562 of the Companies Act 2016; and
+
+--- CHUNK 2 ---
+A copy of the Document of Change or Alteration of Particulars Relating to a Foreign Company under Subsection 567(1) of the Companies Act 2016; or
+A copy of the Company Registration Document issued by the relevant authority in the country of incorporation; or
+A copy of the Confirmation of Establishment issued by a member of the company's Board of Directors. Item (i) must be issued by the Companies Commission of Malaysia (SSM).
+After Registration
+You are required to submit
+e-CP204 (https://ez.hasil.gov.my/ci/info_Anon.aspx?from=03)
+within 3 months from the date of commencement of the business.
+A company is also required to submit C and R Form within 7 months from the closing date of accounts.
+The forms can be downloaded from the website as follows:
+Company
+Forms > Select Return Forms > Select Company > Select All > Click Search
+Non-Company & Non Individual
+Forms > Selest Return Forms > Select Non-Company & Non-Individual > Selest All > Click Search
+
+--- CHUNK 3 ---
+Forms > Selest Return Forms > Select Non-Company & Non-Individual > Selest All > Click Search
+Register online (https://mytax.hasil.gov.my/ezHasil?data=e-Daftar&id=ezHasil%20sebelum)
+

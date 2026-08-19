@@ -1,0 +1,238 @@
+URL: https://www.kwsp.gov.my/en/member/savings/i-invest
+TITLE: i-Invest: Member Investment Scheme
+CATEGORY: epf
+DOCUMENT_ID: 7996c80d-5cb7-5b36-b281-ce0611d59852
+==================================================
+
+--- CHUNK 0 ---
+i-Invest
+Diversify Your Retirement Savings
+You have the option and flexibility to diversify your retirement portfolio and increase your savings through the Members Investment Scheme (MIS). This scheme allows members with sufficient savings to transfer a portion of their funds from their Akaun Persaraan for investment through appointed Fund Management Institutions (FMIs), including Unit Trust Management Companies and Asset Management Companies. You can also manage your investments seamlessly and conveniently through our i‑Invest platform.
+Blinking Highlight
+i-Invest Platform
+Get quick access to i-Invest through these channels:
+KWSP i-Akaun App (https://www.kwsp.gov.my/mobile/i-Akaun/i-Akaun.html)
+i-Akaun (Member) Web Portal (https://iakaun.kwsp.gov.my/portal/member/login)
+Who Can Apply
+Requirements
+Malaysians OR Permanent Residents (PR) OR Non‑Malaysians (registered as EPF Members before 1 August 1998)
+Below 55 years of age
+Have sufficient savings with the EPF
+
+--- CHUNK 1 ---
+Below 55 years of age
+Have sufficient savings with the EPF
+Application via counter/FMI's agent or i‑Akaun (Member)
+Malaysians who made a Leaving the Country Withdrawal before 1 August 1995 and opted to recontribute are also eligible.
+Members aged 55 years and above, have the option to invest part of the saving by making Age 55/60 Withdrawal (Investment). This withdrawal is not part of the Members Investment Scheme. Applications for such withdrawal, can be made through KWSP i-Akaun app or web portal i-Akaun (Member).
+What You Need
+Application through agent/FMI counter
+Form KWSP 9N (AHL) (https://www.kwsp.gov.my/documents/d/guest/form_kwsp_9n_ahl_bm)
+and Checklist (This form must be obtained from the chosen FMI)
+Identification Card or Passport (For Non-Malaysians who became EPF Members before 1 August 1998)
+Note
+: The EPF reserves the rights to request any additional documents and to reject any incomplete applications or those that do not comply with the terms and conditions.
+
+--- CHUNK 2 ---
+KWSP i-Akaun app and web portal
+Via i-Invest Platform
+Member has to register as a user of KWSP i-Akaun app or web portal
+Member has to register mobile phone number to receive the TAC number
+Download Brochure (https://www.kwsp.gov.my/documents/d/guest/a19_en_members-investment-scheme-mis-005)
+What You Can Invest
+Responsive KWSP Calculator
+Login To i-Akaun (Member) (https://secure.kwsp.gov.my/member/member/login)
+| Member | Age | Savings in Akaun Persaraan (RM) | New Basic Savings (RM) | Calculation for Investment (30%) | Eligibility |
+| --- | --- | --- | --- | --- | --- |
+| A | 22 | 2,000 | 4,000 | - | Member is not eligible to apply. Savings in the Akaun Persaraan is less than the new Basic Savings. |
+| B | 22 | 6,000 | 4,000 | (6,000 − 4,000) × 30% = RM600 | Member is not eligible, minimum eligibility amount is RM1,000. |
+| C | 25 | 24,000 | 11,000 | (24,000 − 11,000) × 30% = RM3,900 | Member is eligible, minimum eligibility amount is RM1,000 and maximum amount is RM3,900. |
+
+--- CHUNK 3 ---
+The Importance of Basic Savings
+Basic Savings is a pre-determined amount set according to age in Akaun Persaraan to enable members to achieve a minimum savings of RM390,000 when they reach age 60. The implementation of the Basic Savings is to ensure that members have sufficient savings at a minimum amount of RM1,625 per month when they retire to support their basic retirement needs for 20 years from age 60 to 80, in line with Malaysians' life expectancy. The monthly withdrawal is estimated to be RM1,625 in the first year of retirement and is projected to increase gradually to RM4,434 by the 20th year.
+The amount in excess of the Basic Savings can be invested in appointed Fund Management Institutions. The latest revision to this quantum takes effect from 1 January 2026.
+Note:
+
+--- CHUNK 4 ---
+Note:
+The revision period for Retirement Income Adequacy Framework (RIA) is set at five years, and the transition to the new Basic Savings Level will also be implemented over a five-year period, with an annual increment of RM30,000, following approval from the Ministry of Finance (MOF).
+Sample of Eligibility Calculation
+Member:
+A
+Age: 22
+Savings in Akaun Persaraan (RM): 2,000
+New Basic Savings (RM): 4,000
+Calculation for Investment (30%): -
+Eligibility: Member is not eligible, savings in Akaun Persaraan is less than the new Basic Savings
+Member:
+B
+Age: 22
+Savings in Akaun Persaraan (RM): 6,000
+Calculation for Investment (30%): 6,000 - 4,000) x 30% =
+RM600
+Eligibility: Member is not eligible, minimum eligibility amount is RM1,000
+Member:
+C
+Age: 25
+Savings in Akaun Persaraan (RM): 24,000
+New Basic Savings (RM): 11,000
+Calculation for Investment (30%): (24,000 - 11,000) x 30% =
+RM3,900
+Eligibility: Member is eligible, minimum eligibility amount is RM1,000 and maximum amount is RM3,900
+
+--- CHUNK 5 ---
+View Required Basic Savings In Akaun Persaraan For 2026
+| Age | Basic Savings (RM) | Age | Basic Savings (RM) |
+| --- | --- | --- | --- |
+| 18 | 900 | 40 | 74,000 |
+| 19 | 1,100 | 41 | 80,200 |
+| 20 | 1,500 | 42 | 86,700 |
+| 21 | 1,900 | 43 | 93,600 |
+| 22 | 4,000 | 44 | 100,000 |
+| 23 | 6,200 | 45 | 108,000 |
+| 24 | 8,500 | 46 | 115,000 |
+| 25 | 11,000 | 47 | 124,000 |
+| 26 | 13,700 | 48 | 132,000 |
+| 27 | 16,600 | 49 | 141,000 |
+| 28 | 19,600 | 50 | 150,000 |
+| 29 | 22,900 | 51 | 160,000 |
+| 30 | 26,300 | 52 | 170,000 |
+| 31 | 30,000 | 53 | 181,000 |
+| 32 | 33,900 | 54 | 192,000 |
+| 33 | 38,100 | 55 | 203,000 |
+| 34 | 42,400 | 56 | 216,000 |
+| 35 | 47,000 | 57 | 228,000 |
+| 36 | 51,900 | 58 | 241,000 |
+| 37 | 57,000 | 59 | 255,000 |
+| 38 | 62,400 | 60 | 270,000 |
+| 39 | 68,100 |  |  |
+Note: The table refers to the New Basic Savings in 2026.
+Where You Can Invest
+List of Appointed Fund Management Institutions (FMI)
+| Institution | FMI Code & Funds |
+| --- | --- |
+
+--- CHUNK 6 ---
+| Institution | FMI Code & Funds |
+| --- | --- |
+| AHAM Asset Management Berhad 3rd Floor, Menara Boustead 69, Jalan Raja Chulan 50200 Kuala Lumpur Chief Executive Officer: Dato' Teng Chee Wai Compliance Officer: Mr. Shahrin Shaikh Mohd Tel: 03 - 2116 6000 Fax: 03 - 2116 6100 | FMI055 List Of Funds (https://www.kwsp.gov.my/documents/20119/44635/AHAM%20English_20230731.pdf/b4c4ea62-99ea-3b06-6281-f99917ade37d) |
+| Amanah Saham Nasional Berhad Aras 91, Menara Merdeka 118, Presint Merdeka 118, 50118 Kuala Lumpur, W.P. Kuala Lumpur Chief Executive Officer: Mr. Fadzihan Abbas bin Mohamed Ramlee Compliance Officer: Mrs. Sahlawati binti Mustafa Tel: 03 - 7730 8899 | FMI035 List Of Funds (https://www.kwsp.gov.my/documents/20119/44638/ASNB%20English_01042020.pdf/5895abc2-46b5-9252-0b91-de9e27e17ac5) |
+
+--- CHUNK 7 ---
+| Amanah Saham Sarawak Lot 357, Section 5 KTLD, Jalan Satok, 93400 Kuching, Sarawak Chief Executive Officer: Mrs. Norlia Madon Compliance Officer: Mrs. Ng Boon Wank Tel: 082 - 231 433 Fax: 082 - 232 596 | FMI004 List Of Funds (https://www.kwsp.gov.my/documents/20119/44641/ASSAR%20English_01042020.pdf/4d3dcced-6094-c4b2-5f5e-def4a18296c0) |
+| AmFunds Management Bhd Tingkat 9, Bangunan AmBank Group 55, Jalan Raja Chulan, 50200 Kuala Lumpur Chief Executive Officer: Goh Wee Peng Compliance Officer: Mr. J Visvanathan Jaganatha Tel: 03 - 2032 2888 Fax: 03 - 2031 5210 | FMI019 List Of Funds (https://www.kwsp.gov.my/documents/d/guest/list-of-funds-amfunds-en-13012026) |
+
+--- CHUNK 8 ---
+| Astute Fund Management Berhad 3rd Floor, Menara Dungun, No 46, Jalan Dungun Damansara Heights, 50490 Kuala Lumpur Chief Executive Officer: Mr. Clement Chew Kuan Hock Compliance Officer: Ms. Nancy Anak Rioh Tel: 03 - 2095 9999 Fax: 03 - 2095 0693 | FMI033 List Of Funds (https://www.kwsp.gov.my/documents/20119/44647/Apex%20English_01042020.pdf/162e2085-6436-4cd3-01ce-9da0a9a4e403) |
+| Eastspring Investments Bhd Level 22, Menara Prudential, Persiaran TRX Barat, 55188, Tun Razak Exchange, Kuala Lumpur Chief Executive Officer: Ms Yap Siok Hoon Compliance Officer: Ms. Benothini a/p Bascaran Tel: 03 - 2052 3388 Fax: 03 - 2170 0399 | FMI046 List Of Funds (https://www.kwsp.gov.my/documents/20119/44653/EIB%20English_01042020.pdf/3745015a-b8b9-14e8-003b-39b943f8a72a) |
+
+--- CHUNK 9 ---
+| Hong Leong Asset Management Bhd Level 18, Block B, Plaza Zurich, No 12, Jalan Gelenggang, Bukit Damansara, 50490 Kuala Lumpur Chief Executive Officer: Mr. Chue Kwok Yan Head of Compliance: Mr. Adrian Lee Tze Kuean Tel: 03 - 2081 8600 Fax: 03 - 2081 8599 | FMI009 List Of Funds (https://www.kwsp.gov.my/documents/20119/44656/HLAM%20English_01042020.pdf/22c8a23e-2f13-b49c-f4ee-73ce699c7cbc) |
+| KAF Investment Funds Bhd Level 13, Menara IQ, Lingkaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Federal Territory of Kuala Lumpur Executive Director/ Chief Executive Officer: Mr Mohammad Fariz bin Ahmad Shamsuddin Compliance Officer: Ms Siti Fatimah Zahrah binti Johari Mohd Tel: 03 - 2171 0559 Fax: 03 - 2171 0583 | FMI052 List Of Funds (https://www.kwsp.gov.my/documents/20119/44659/KAF%20English_20230731.pdf/5d29b6b8-e227-d361-7cd7-3f7e353b4638) |
+
+--- CHUNK 10 ---
+| Kenanga Investors Bhd Level 14, Kenanga Tower 237, Jalan Tun Razak, 50400 Kuala Lumpur Managing Director/ Chief Executive Officer: Datuk Wira Ismitz Matthew De Alwis Compliance Officer: Dr. Sahar Effendi Daud Tel: 03 - 2172 3000 Fax: 03 - 2172 3080 | FMI056 List Of Funds (https://www.kwsp.gov.my/documents/20119/44662/KIB%20English_01042020.pdf/b20c379d-ed07-f6ba-91a1-dd9a324f6da2) |
+| Manulife Investment Management (M) Berhad 13th Floor, Menara Manulife, No 6, Jalan Gelenggang, Damansara Heights, 50490 Kuala Lumpur Chief Executive Officer: Mr. Jason Chong Soon Min Compliance Officer: Ms. Yooi Foong Hing Tel: 03 - 2719 9228 Fax: 03 - 2093 7371 | FMI057 List Of Funds (https://www.kwsp.gov.my/documents/20119/44665/Manulife_English_20230731.pdf/eff27e07-a770-09dd-a315-59c4aaeebfe7) |
+
+--- CHUNK 11 ---
+| MIDF Amanah Asset Management Bhd Level 20, Menara MBSB Bank, PJ Sentral Lot 12, Persiaran Barat, Seksyen 52 46200 Petaling Jaya, Selangor Chief Executive Officer: Mr. Shan Kamahl Mohammad Compliance Officer: Ms. Zarina Abd. Rahman Tex Fax | FMI012 List Of Funds (https://www.kwsp.gov.my/documents/20119/44668/MIDF%20English_01042020.pdf/a6b8236e-e3de-3f7c-0251-3204a6fd1c9e) |
+| Pheim Unit Trusts Bhd Tingkat 7, Menara Hap Seng, Peti Surat 12, No 1 & 3 Jalan P.Ramlee, 50250 Kuala Lumpur Chief Executive Officer: Mr. Leong Hoe Kit Compliance Officer: Mr Ahmad Izzudeen bin Razali Tel: 03 - 2142 8888 Fax: 03 - 2141 9199 | FMI053 List Of Funds (https://www.kwsp.gov.my/documents/d/guest/pheim_en_18112024) |
+| Phillip Capital Management Sdn Bhd B-18-6 Megan Avenue II No. 12 Jalan Yap Kwan Seng 50450 Kuala Lumpur Wilayah Persekutuan Chief Executive Officer: Datin Hajjah Nona binti Salleh Compliance Officer: Mr. Ramli bin Abd Hamid Tel: 03 - 2783 0300 | FMI028 |
+
+--- CHUNK 12 ---
+| PMB Investment Bhd Tingkat 2, Wisma PMB, No. 1A, Jalan Lumut, PO Box 10701, 50722 Kuala Lumpur Chief Executive Officer: Mrs. Mahani binti Ibrahim Compliance Officer: Mr. Mohd Isyazwan bin Fauzi @Puzilah Tel: 03 - 4145 3800 Fax: 03 - 4145 3901 | FMI020 List Of Funds (https://www.kwsp.gov.my/documents/20119/44674/PMB%20English_01042020.pdf/ea7b5440-44de-0a75-5e0d-d9fa405f9554) |
+| Principal Asset Management Bhd Level 32, Exchange 106, Lingkaran TRX, 55188 Tun Razak Exchange, Kuala Lumpur Chief Executive Officer: Puan Munirah Khairuddin Compliance Officer: Puan Nurul Nadia Bakar Tel: 03 – 8680 8000 Fax: 03 - 2084 8899 | FMI034 List Of Funds (https://www.kwsp.gov.my/documents/20119/44650/Principal%20English_20230731.pdf/1d4891e5-bda0-3ca5-10f0-d5ecc3a6150d) |
+
+--- CHUNK 13 ---
+| Public Mutual Bhd 8th Floor, Menara Public Bank 2, No 78 Jalan Raja Chulan, 50200 Kuala Lumpur Chief Executive Officer: Mr. Chiang Kang Pey Compliance Officer: Mr. Amirul Zaharin bin Razalli Tel: 03 - 2022 6800 Fax: 03 - 2022 6900 | FMI003 List Of Funds (https://www.kwsp.gov.my/documents/d/guest/pb-mutual-english) |
+| RHB Asset Management Sdn Bhd Level 8, Tower 2 & 3, RHB Centre Jalan Tun Razak, 50400 Kuala Lumpur Chief Executive Officer: Mr. Ng Chze How Compliance Officer: Mr. Yap Ben Shiow Tel: 03 - 9205 8000 Fax: 03 - 9205 8100 | FMI026 List Of Funds (https://www.kwsp.gov.my/documents/20119/44680/RHB%20English_01042020.pdf/4cb2ca7c-6c89-0d19-a6b0-ba695b982973) |
+
+--- CHUNK 14 ---
+| RHB Islamic International Asset Management Berhad Level 8, Tower 2 & 3, RHB Centre, Jalan Tun Razak 50400 Kuala Lumpur Chief Executive Officer: Encik Mohd Najman bin Md Isa Compliance Officer: Mr. Yap Ben Shiow Tel: 03 - 9205 8002 Fax: 03 - 9205 8107 | FMI058 List Of Funds (https://www.kwsp.gov.my/documents/20119/44686/RIIAM%20English_01042020.pdf/620738d3-9b8a-35d5-7627-2c4cbad80ccc) |
+| TA Investment Management Bhd Tingkat 23, Menara TA One, 22 Jalan P. Ramlee, 50250 Kuala Lumpur Chief Executive Officer: Ms Tee Ling Ling Compliance Officer: Mr. Ch'ng Soon Kim Tel: 03 - 2031 6603 Fax: 03 - 2031 4479 | FMI014 List Of Funds (https://www.kwsp.gov.my/documents/20119/44683/TA%20English_20230731.pdf/6a69056b-8908-488b-06f0-f1e60c37969e) |
+Additional Information
+What You Should Know
+All investments must be made through the appointed FMIs/related Institutional Unit Trust Advisors (IUTA).
+Application must be submitted via the FMIs agent/KWSP i-Akaun app or web portal.
+
+--- CHUNK 15 ---
+Application must be submitted via the FMIs agent/KWSP i-Akaun app or web portal.
+Applications cannot be revoked once submitted.
+Application can be made at any time in various unit trust funds / various FMIs appointed by the depending on investment eligibility amount.
+Investment eligibility amount will be updated every 3 months.
+Member are not allowed to make additional investments  using their own funds.
+All investment risks are assumed by members. Members are encouraged to fully understand the documents on fund published by FMIs prior to making any investment decision.
+Amount invested under this scheme is not entitled to EPF’s annual dividend.
+Amount transferred to FMIs is not subjected to member’s EPF nomination.
+Member below 55 years, in the event of liquidation of investments or delisting of FMIs, FMIs are required to return the invested amount including any profits to the EPF.
+
+--- CHUNK 16 ---
+The EPF will release control of the amount invested in the FMI when a member reaches age 55 or has made a full withdrawal through Leaving Country/ Incapacitation/ Pensionable Employees/Death Withdrawal. Any investment transaction made is between the member and the FMIs.
+Members who are opted for Simpanan Shariah are only allowed to invest in Shariah compliant unit trust products listed by the EPF.
+No service charge will be imposed by the EPF. However, it may be imposed by the FMIs/IUTA for the investment made.
+Important Reminder
+Certify your documents
+Ensure ALL copies of documents have been certified and acknowledged by the authorised persons.
+(complete with name, designation and official stamp except for copies of documents which require certification by an EPF officer)
+Authorised Persons (https://www.kwsp.gov.my/corporate/panel-institutions)
+What is Member Investment Scheme (MIS)?
+
+--- CHUNK 17 ---
+What is Member Investment Scheme (MIS)?
+Eligible Members may voluntarily transfer a portion of their excess savings from EPF Akaun Persaraan to authorised institutions or approved investments.
+Transfers up to a maximum of 30% of the amount above the Basic Savings in Akaun Persaraan (for members aged 55 years and below.)
+Transfer to appointed Fund Management Institution (FMI) or Institutional Unit Trust Adviser (IUTA).
+What is the application channel provided for the member wishes to apply for MIS?
+Through the FMI’s Agent / Counter
+Through the KWSP i-Akaun app
+Through i-Akaun (Member) web portal
+What are the eligibility requirements for investment?
+| Age below 55 | Age 55 & above |
+
+--- CHUNK 18 ---
+| Members must be below 55 years old at the time the application is received Malaysian; OR Non-Malaysians who registered as EPF Members before 1 August 1998; OR Permanent Residents Members may transfer the amount of savings as follows: a. Up to 30% of the total savings exceeding the Basic Savings in Akaun Persaraan. b. Eligibility formula: (Akaun Persaraan - Basic Savings) x 30%. c. Minimum investment amount is RM1,000. Application can be made through an FMI’s Agent / Counter and KWSP i-Akaun app or i-Akaun (Member) web portal. | Members must be 55 years old or above at the time of application Malaysian; OR Non-Malaysians who registered as EPF Members before 1 August 1998; OR Permanent Residents The investment amount is a withdrawal from Akaun 55 or Akaun Emas Members may withdraw the savings as follows: a. Any amount in Akaun 55 or Akaun Emas by retaining RM1,000 in the account. b. Basic Savings requirement is not applicable. c. Minimum investment amount is RM1,000. Application can
+
+--- CHUNK 19 ---
+Savings requirement is not applicable. c. Minimum investment amount is RM1,000. Application can only be made through KWSP i-Akaun app or i-Akaun (Member) web portal. |
+
+--- CHUNK 20 ---
+What is the investment frequency?
+| Application through FMI’s Agent/Counter | Application through KWSP i-Akaun app or i-Akaun (Member) web portal |
+| Investment can be made at anytime (subject to eligible investment amount in 3 months time). Allow to invest in multiple FMI/IUTA and unit trust fund, appointed by EPF. Only one FMI per application. | Investment can be made at anytime (subject to eligible investment amount in 3 months time). Allow to invest in multiple FMI/IUTA and unit trust fund, appointed by EPF. Can invest to multiple funds with multiple FMI/IUTA per application. |
+How to apply?
+| Application is submitted through any appointed FMI’s agent/counter. FMI will submit the application to EPF for processing. | Member registered as an i-Akaun (Member) user. Member has a registered mobile phone number with EPF for TAC number acceptance. |
+How much is the initial sales charge?
+
+--- CHUNK 21 ---
+How much is the initial sales charge?
+| Initial sales charge by FMI is up to 3% per buy transaction (subject to change by EPF). | Initial sales charge by FMI is up to 0.5% per buy transaction (subject to change by EPF). |
+What are the available features in i-Invest?
+Consolidated account holding
+Fund performance
+Fund analysis tools
+Online transaction (buy, switch, redeem)
+Transaction history
+Suitability assessment
+Investment simulator
+Individual performance dashboard
+Info hub
+Do members with Simpanan Shariah status can only invest in shariah-compliant funds?
+Yes, members who elect to Simpanan Shariah after the effective date can only invest in shariah-compliant funds.
+Who can be contacted if member has issues / inquiries related to MIS?
+Enquiry on EPF:
+Members may contact EPF's Contact Management Centre or visit the EPF website.
+Enquiry on FMI/IUTA:
+Members may contact respective FMI/IUTA contact centre.
+How can member check the application status?
+
+--- CHUNK 22 ---
+How can member check the application status?
+Member can check the application status through EPF’s Contact Management Centre or KWSP i-Akaun app.
+When will the sale proceeds be reflected in my Akaun Persaraan and i-Invest holdings?
+The sale proceeds can take up to 7 business days from the time an FMI receives the request (via online transaction or via agents) to be credited back to EPF, although it typically takes 2-4 business days. The length of time also depends on the individual redemption policies and processes of FMIs or IUTAs. Upon liquidation of your investments, it should be reflected in your i-Invest holdings the next business day.
+Once EPF has received the sale proceeds from the relevant FMI, it can take up to another 7 business days for the sale proceeds to be credited into your Akaun Persaraan. Therefore, a situation may arise whereby your i-Invest holdings have already reflected the sell transaction but your Akaun Persaraan has not.
+
+--- CHUNK 23 ---
+If EPF has released control, the sale proceeds will be deposited by the relevant FMI into your personal bank account. Please contact the relevant FMI for further clarification.
+

@@ -1,0 +1,28 @@
+URL: https://www.hasil.gov.my/en/e-invois/pelaksanaan-e-invois-di-malaysia/mengenai-e-invois-manfaatnya
+TITLE: Mengenai e-Invois & Manfaatnya
+CATEGORY: tax
+DOCUMENT_ID: 79c7daf2-18e2-5bf5-8efa-f7b78537ee9f
+==================================================
+
+--- CHUNK 0 ---
+Mengenai e-Invois & Manfaatnya
+e-Invoice
+About e-Invoice & Benefits
+https://www.hasil.gov.my/en/e-invois/program-e-invois/
+https://www.hasil.gov.my/en/myinvois-e-pos/
+https://sdk.myinvois.hasil.gov.my/documents/invoice-v1-0/
+https://sdk.myinvois.hasil.gov.my/integration-practices/#rate-limit
+https://www.hasil.gov.my/en/e-invois/portal-myinvois/
+Introduction
+To support the growth of the digital economy, the Government has implemented the e-Invoice in stages to digitalise the business ecosystem while enhance the efficiency of Malaysia’s tax administration management. This is in line with the 12th Malaysia Plan and continued in the 13th Malaysia Plan, where one of the key focus is on strengthening the digital services infrastructure and digitalising the tax administration.
+The e-Invoice will enable near real-time validation and storage of transactions, catering to Business-to-Business (B2B), Business-to-Consumer (B2C) and Business-to-Government (B2G) transactions.
+About e-Invoice
+
+--- CHUNK 1 ---
+About e-Invoice
+An e-Invoice is a digital representation of a transaction between a supplier and a buyer. e-Invoice replaces paper or electronic documents such as invoices, credit notes, and debit notes.
+An e-Invoice contains the same essential information as traditional document, for example, supplier’s and buyer’s details, item description, quantity, price excluding tax, tax, and total amount, which records transaction data for daily business operations.
+Benefits of e-Invoice
+The implementation of e-Invoice not only provides seamless experience to taxpayers, but it also improves business efficiency and increases tax compliance. Overall benefits include:
+✕
+

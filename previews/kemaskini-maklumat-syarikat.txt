@@ -1,0 +1,33 @@
+URL: https://www.hasil.gov.my/en/syarikat/kemaskini-maklumat-syarikat
+TITLE: Kemaskini Maklumat Syarikat
+CATEGORY: tax
+DOCUMENT_ID: 1359a713-8789-55c0-9aaf-9b4747a96a44
+==================================================
+
+--- CHUNK 0 ---
+Kemaskini Maklumat Syarikat
+Company
+Update Company Information
+When is necessary?
+You are advised to inform IRBM immediately of any change in company information. Among the information that needs to be updated if there is a change are:
+Correspondence address/business registered address
+Contact number
+Change of company name
+Change of tax agent (if applicable)
+How to update?
+For the purpose of updating your correspondence address, please use Change of Address Application Form i.e.
+CP600B(284.34 KB) (https://www.hasil.gov.my/wp-content/uploads/CP600B_Pin2_2022_1.pdf)
+Please print this form to enable you to fill it manually. You are also allowed to inform change of correspondence address by an official letter.
+For the purpose of updating the information, you are required to forward a copy of Form 13.
+This notification can be forwarded to the HASiL Office office which handles your tax file.
+How To Verify Company Details
+
+--- CHUNK 1 ---
+How To Verify Company Details
+Verification can be done in person at the nearest HASiL Office or by contacting any HASiL Office or the
+Customer Service Centre (https://www.hasil.gov.my/en/hubungi-kami/waktu-operasi-perkhidmatan-kaunter-hasil/)
+Please state your new identification card number or your income tax reference number to enable verification to be done.
+Verification Through Agent
+Verification can also be done through a representative if you are not able to do it in person. An authorization letter permitting your representative to do verification is required to confirm your authorization. Verification can only be done in person. Verification on the telephone is strictly not allowed.
+Verification can be done by the authorized tax agent. However, it can only be done after all the information regarding appointment as a tax agent has been updated in IRBM system.
+

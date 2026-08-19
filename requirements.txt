@@ -1,0 +1,37 @@
+# ---- Web / API layer ----
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+
+# ---- Async workers / broker ----
+celery==5.4.0
+redis==5.2.1
+
+# ---- HTTP clients (remote model APIs only) ----
+httpx==0.28.1
+tenacity==9.0.0          # retry + exponential backoff for n8n callback & API calls
+
+# ---- LangChain / LangGraph orchestration ----
+langgraph==0.2.60
+langchain-core==0.3.28
+langchain-text-splitters==0.3.4   # RecursiveCharacterTextSplitter for ingestion
+langchain-google-genai==2.0.7     # Gemini via AI Studio API key (free-tier backend)
+langchain-google-vertexai==2.1.2  # Gemini via Vertex AI (Cloud-billed backend)
+
+# ---- Supabase (Postgres + pgvector + Storage) ----
+supabase==2.11.0
+
+# ---- Language detection (reply-language directive for the agent) ----
+langdetect==1.0.9
+
+# ---- Observability ----
+langfuse==2.57.0
+
+# NOTE: Offline eval libs (deepeval / uptrain) live in requirements-eval.txt —
+# they are heavy and only needed for the OFFLINE evaluation harness, not the
+# API/worker runtime. Keeping them out avoids bloating the deployed image.
+
+# NOTE: NO torch / transformers / GPU inference stack.
+# All models (Gemini, Qwen3-VL, Qwen ASR, e5 embeddings) are accessed via remote HTTP APIs.

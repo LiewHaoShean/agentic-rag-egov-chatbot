@@ -1,0 +1,104 @@
+URL: https://www.hasil.gov.my/en/ckht/tanggungjawab-pelupus-dan-pemeroleh
+TITLE: Tanggungjawab Pelupus Dan Pemeroleh
+CATEGORY: tax
+DOCUMENT_ID: 57bab9c7-117f-5742-af26-6769eaca04b3
+==================================================
+
+--- CHUNK 0 ---
+Tanggungjawab Pelupus Dan Pemeroleh
+RPGT
+Shares In Real Property Company (RPC)
+Responsibility Of Disposer And Acquirer
+Expand All
+Responsibility of Disposer
+Submitting the RPKT Return Form
+Submit the CKHT Return Form within
+60 days
+after the date of disposal of assets subject to ACKHT 1976 as follows:
+RPK 1A
+Disposal of real estate subject to the ACKHT 1976
+RPK 1B
+Disposal of shares subject to paragraph 34 or 34A of Schedule 2 of the ACKHT 1976
+RPK 3
+Pemberitahuan di bawah subseksyen 13(6) ACKHT 1976 : Perakuan pelupusan aset tidak tertakluk kepada cukai atau dikecualikan daripada bayaran cukai
+‎
+Starting January 1, 2025, submission of the CKHT Return Form online at the e-CKHT MyTax Portal via
+https://mytax.hasil.gov.my (http://mytax.hasil.gov.my/)
+is mandatory, including for disposals from the previous year.
+Submission of paper CKHT Return Forms is not accepted and is considered a failure to submit the CKHT Return Form if no re-submission is made via e-CKHT on MyTax.
+
+--- CHUNK 1 ---
+Fill out Form CKHT 1A / Form CKHT 1B separately for each disposer.
+For the disposal of a single property / share with different acquisition dates, the information in the Calculation of Profit / Loss on Disposal of Property / Share section should be filled in according to the relevant acquisition date and section. All incidental cost claims should be filled in the relevant space according to the disposal and acquisition sections.
+Calculate taxable profits up to the amount of tax charged in the CKHT Return Form. Tax rates are as per the IRBM Official Portal > Services > CKHT > CKHT Rates.
+Complete Form CKHT 3 [Notification under subsection 13(6) ACKHT 1976] for the following cases:
+Application for election of exemption from the CKHT for the disposal of a private residence under Section 8 of the ACKHT 1976.
+Disposal of assets results in a loss because the disposal price is less than the acquisition/disposal price of the asset which is not profitable/no profit or loss ( no gain no loss ).
+
+--- CHUNK 2 ---
+no gain no loss
+).
+Disposal of tax exempt assets under the Real Estate Gains Tax (Exemption) Order / exemption letter. Please state the order number / exemption letter reference number.
+Disposal of tax-exempt assets in accordance with the relevant provisions of the ACKHT 1976.
+Disposers are exempt from submitting the RPGT Return Form if the gain from the disposal of assets is subject to the ITA 1967.
+For example, the sale of a house by a developer to a buyer is not subject to the submission of a CKHT Return Form because the house is business stock for the housing developer, where the profit from the sale is subject to the ACT 1967.
+Make a tax balance payment
+Tax balance payment period
+Disposal Year of Assessment 2024 and below
+The disposer must pay the tax or tax balance within
+30 days
+from the date of the assessment notice.
+Disposal Starting from Year of Assessment 2025 and onwards
+90 days
+from the date of disposal.
+
+--- CHUNK 3 ---
+Disposal Starting from Year of Assessment 2025 and onwards
+90 days
+from the date of disposal.
+A tax balance arises when the amount remitted by the acquirer under section 21B of the Income Tax Act 1976 is less than the amount of tax payable. The disposer is required to settle the tax balance.
+If the disposer receives the original / additional assessment notice, payment of the remaining tax must be made within 30 days from the date of the assessment notice.
+Keeping records and documents
+Starting 01 January 2025, the disposer must retain documents for
+a period of seven (7) years
+from the end of the year of assessment and submit them to HASIL if requested for verification review
+If the RPGT Return Form is submitted late to the DGIR, the
+seven (7) year
+period will begin from the end of the year in which the RPGT Return Form was submitted to the DGIR.
+Responsibility of Acquirer
+60 days
+after the date of acquisition of real estate / shares subject to ACKHT 1976 as follows:
+CKHT 2A
+
+--- CHUNK 4 ---
+after the date of acquisition of real estate / shares subject to ACKHT 1976 as follows:
+CKHT 2A
+Acquisition of real estate or shares subject to section 34 or 34A of Schedule 2 of the ACKHT 1976
+https://mytax.hasil.gov.my (https://mytax.hasil.gov.my/)
+is mandatory, including for previous year's acquisitions.
+Fill out Form CKHT 2A separately for each
+The acquirer is exempt from submitting the RPGT Return Form if the gain from the disposal of assets is subject to the Income Tax Act 1967 (ITA 1967). For example, the purchase of assets from a property development project.
+Holding and remitting payments Section 21B ACKHT 1976
+The acquirer shall retain and remit a portion of the total consideration value or all of the cash consideration, whichever is lower, in asset disposal transactions involving cash consideration or part of the cash consideration, as follows:
+| Disposer Category (Table 5) | Remittance rate by acquirer |
+| --- | --- |
+| Part I | 3% |
+| Part II
+(Within 3 years) | 5% |
+
+--- CHUNK 5 ---
+| --- | --- |
+| Part I | 3% |
+| Part II
+(Within 3 years) | 5% |
+| Part II
+(4th year onwards) | 3% |
+| Part III | 7% |
+For disposals that do not involve monetary consideration, section 21B of the ACKHT 1976 does not apply.
+The acquirer is required to remit the amount to the Director General of Inland Revenue (DGIR) within 60 days after the date of disposal. The amount remitted will be used to pay all or part of the tax imposed on the disposer.
+If the acquirer fails to pay the amount, an increase of 10% of the amount not paid will be imposed on the acquirer. The amount that should have been paid and the increase is the acquirer's debt to the Government and must be paid to the DGIR.
+Starting 01 January 2025, acquirers must retain documents for
+from the end of the year of assessment and submit them to HASIL if requested.
+If the RPGT Return Form is submitted late to the DGIR, the seven
+(7) years
+

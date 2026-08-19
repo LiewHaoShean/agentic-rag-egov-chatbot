@@ -1,0 +1,60 @@
+URL: https://www.hasil.gov.my/en/syarikat/pindaan-selepas-penghantaran-borang
+TITLE: Pindaan Selepas Penghantaran Borang
+CATEGORY: tax
+DOCUMENT_ID: 37de8847-ac0d-5e9c-bad9-dc5f3d803b94
+==================================================
+
+--- CHUNK 0 ---
+Pindaan Selepas Penghantaran Borang
+Company
+Amending the Income Tax Return Form
+Action to be Taken if There is a mistake in the Form
+Correction of any error made on form submitted manually or online can be made by writing a letter detailing the mistake made and enclosing documents (purchase receipts, invoices, etc.) to support your application.
+The letter and documents must be submitted to the HASiL office handling your income tax file or through the HASiL customer feedback system.
+Amendment After Submission of Form (From Year of Assessment 2009)
+Amendment Submitted Before the Deadline for Submission of Return Form
+The letter and documents must be submitted to the HASiL office handling your income tax file.
+Amendment Within 6 Months from the ITRF Submission Deadline
+
+--- CHUNK 1 ---
+Amendment Within 6 Months from the ITRF Submission Deadline
+The taxpayer is allowed to make self amendment on information or assessment in the Income Tax Return Form (ITRF) submitted to IRBM on time by submitting an Amended Return Form (ARF) within 6 months from the due date for submission of ITRF.
+ARF is to be submitted to the HASiL Office that handles the taxpayers income tax file.
+Only taxpayers who have submitted the ITRF on time are allowed to make self amendment and self amendment is allowed only once for each year of assessment.
+The taxpayer is allowed to make self amendment on information or assessment to correct mistakes in the ITRF relating to :
+Income under declared / not declared;
+Expenses / other claims over claimed; or
+Capital allowances / incentives / reliefs over claimed
+Submission of ARF may result in the following changes:
+From not liable to taxable original assessment notice;
+From taxable to additional tax additional assessment notice; or
+
+--- CHUNK 2 ---
+From taxable to additional tax additional assessment notice; or
+From repayment to reduced repayment original assessment notice
+For amendments made other than the situations stated in the paragraph above, taxpayers are not required to submit the ARF. Instead, they may submit the amendment directly by providing a detailed notification letter explaining the error, together with supporting documents (purchase receipts, invoices, and others) to substantiate the application. The letter and documents must be submitted to the HASiL office handling the taxpayer’s income tax file.
+If the Director General makes an amendment and issues an amended assessment within 6 months from submission of ITRF, the taxpayer is not eligible to submit ARF to the Director General. If the taxpayer wishes to make an amendment (voluntary disclosure) to the assessment raised by the Director General, he must forward a letter to IRBM
+Rate and Computation of Increase in Tax
+Year of Assessment 2009 to 2018
+
+--- CHUNK 3 ---
+Rate and Computation of Increase in Tax
+Year of Assessment 2009 to 2018
+The original assessment or additional assessment self raised by the taxpayer is subject to an increased in tax. The taxpayer is required to fill in the column for increase in tax in the ARF .If the amended Return Form is furnish :
+Within a period of 60 days from the due date for submission of ITRF, the amount of increase in tax charged shall be 10% of the amount of such tax payable or additional tax payable.
+After the period of 60 days but not later than 6 months from the due date for submission of ITRF, the amount of increase in tax charged shall be determined in accordance with the following formula :
+B + [ ( A + B ) x 5% ]
+where: A
+= the amount of such tax payable or additional tax payable; and
+B = 10%
+of the amount of such tax payable or additional tax payable ( A X 10% )
+From The Year of Assessment 2019
+
+--- CHUNK 4 ---
+From The Year of Assessment 2019
+The tax or additional tax payable is subject to an increase in tax under subsection 77B(4) of ITA 1967. The amount of increase in tax charged for an Amended Return Form furnished within a period of 6 months after the date specified in subsection 77(1) of ITA 1967, shall be 10% of the amount of such tax payable or additional tax payable, as shown in the following formula:-
+( A x 10% )
+where: A
+= the amount of such tax payable or additional tax payable
+A non-resident individual making the amendment is required to compute and enter the amount of increase in tax at item A33 of the Amended Return Form.
+

@@ -1,0 +1,117 @@
+URL: https://www.hasil.gov.my/en/antarabangsa/instrumen-multilateral-mli
+TITLE: Instrumen Multilateral (MLI)
+CATEGORY: tax
+DOCUMENT_ID: 32603be7-4b30-571d-a5a3-11656b3c06df
+==================================================
+
+--- CHUNK 0 ---
+Instrumen Multilateral (MLI)
+International
+THE MULTILATERAL CONVENTION TO IMPLEMENT TAX-TREATY RELATED MEASURES TO PREVENT BASE EROSION AND PROFIT SHIFTING (MLI)
+The Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting (MLI) is one of the outcomes of the OECD/G20 Project to tackle Base Erosion and Profit Shifting (the “BEPS Project”). It is an agreement negotiated under Action 15 of the BEPS Project. Implementation of the Final BEPS Package will require changes to the bilateral tax treaties (DTAs). Bilateral updates to the treaty network would be a very burdensome and time-consuming exercise, thus the MLI is seen as the solution as it allows jurisdictions to swiftly amend their double taxation avoidance agreements to implement the tax treaty related BEPS recommendations.
+
+--- CHUNK 1 ---
+Malaysia was involved in the development of the MLI with more than 100 jurisdictions in the Ad Hoc Group. The negotiation of the MLI text was concluded on 24 November 2016 in Paris. The first signing ceremony was held on the 7th of June 2017.
+Some of the DTAs have been amended by the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting (“MLI”). The MLI does not amend treaties like an amending protocol. Instead, the MLI modifies treaties by sitting alongside treaties.
+However, for purposes of clarity, Malaysia has prepared a consolidated text as guidance to aid readers, also known as
+Synthesised Text (“ST”)
+. The sole purpose of ST is to facilitate the understanding of the application of the MLI to the DTA and ST does not constitute a source of law. The authentic legal texts of the DTA and the MLI take precedence and remain the legal texts applicable.
+Expand All
+a. Signing of MLI by Malaysia
+
+--- CHUNK 2 ---
+Expand All
+a. Signing of MLI by Malaysia
+In line with Malaysia’s commitment in meeting the internationally agreed tax standards and the implementation of BEPS Action Plans, Malaysia, represented by the Honourable Deputy Finance Minister I, YB Dato’ Wira Othman Aziz signed the MLI at the OECD headquarters in Paris on 24th January 2018 along with Barbados, Cote d’Ivoire, Jamaica, Panama and Tunisia. At the time of signature, a list of expected reservations and notifications pursuant to Articles 28(7) and 29(4) of the MLI was deposited.
+References –
+Signatories and Parties (http://www.oecd.org/tax/treaties/beps-mli-signatories-and-parties.pdf)
+Legal text of the MLI (https://www.hasil.gov.my/wp-content/uploads/multilateral-convention-to-implement-tax-treaty-related-measures-to-prevent-base-erosion-and-profit-shifting.pdf)
+Frequently Asked Questions (https://www.hasil.gov.my/wp-content/uploads/mli-frequently-asked-questions.pdf)
+; and
+
+--- CHUNK 3 ---
+; and
+Explanatory Statement to the MLI (https://www.hasil.gov.my/wp-content/uploads/explanatory-statement-to-the-multilateral-convention-to-implement-tax-treaty-related-measures-to-prevent-beps.pdf)
+b. Entry into force of the MLI
+The MLI entered into force on 1st July 2018.
+c. Treaties Modified by MLI
+The table bellows lists the treaties which will be modified by the MLI based on the countries position as of January 2026:
+| COUNTRY |
+| --- |
+| 1 | Albania | 2 | Australia | 3 | Austria | 4 | Bahrain |
+| 5 | Belgium | 6 | Bosnia and Herzegovina | 7 | Canada | 8 | Chile |
+| 9 | China | 10 | Croatia | 11 | Czech Republic | 12 | Denmark |
+| 13 | Egypt | 14 | Fiji | 15 | Finland | 16 | France |
+| 17 | Hong Kong | 18 | Hungary | 19 | India | 20 | Indonesia |
+| 21 | Ireland | 22 | Italy | 23 | Japan | 24 | Jordan |
+| 25 | Kazakhstan | 26 | Korea Republic | 27 | Kuwait | 28 | Luxembourg |
+| 29 | Malta | 30 | Mauritius | 31 | Mongolia | 32 | Morocco |
+
+--- CHUNK 4 ---
+| 29 | Malta | 30 | Mauritius | 31 | Mongolia | 32 | Morocco |
+| 33 | Namibia | 34 | Netherlands | 35 | New Zealand | 36 | Pakistan |
+| 37 | Papua New Guinea | 38 | Poland | 39 | Qatar | 40 | Romania |
+| 41 | Russia | 42 | San Marino | 43 | Saudi Arabia | 44 | Seychelles |
+| 45 | Singapore | 46 | Slovak Republic | 47 | South Africa | 48 | Spain |
+| 49 | Sweden | 50 | Thailand | 51 | Türkiye | 52 | United Arab Emirates |
+| 53 | United Kingdom | 54 | Ukraine | 55 | Vietnam | 56 | Senegal |
+The number of treaties modified by the MLI could change if more of Malaysia’s tax treaty partners sign and ratify the MLI and list their treaty with Malaysia.
+Synthesised texts (ST) reproduce the text of Double Taxation Avoidance Agreement (DTA) including the texts of any amending protocols or similar instruments, and the provisions of the MLI that will modify that DTA. The ST document has consolidated all amending protocols or similar instruments and relevant documents for easy reference.
+
+--- CHUNK 5 ---
+ST also include information on the entry into effect of the relevant provisions of the MLI. The relevant DTA provisions replaced by MLI is indicated by double strikethrough text. The provisions of the MLI that are applicable with respect to the provisions of the DTA are included in boxes throughout the text of this ST.
+A synthesised text does not constitute a source of law. The authentic legal texts of the tax treaty and the MLI take precedence and remain the legal texts applicable.
+d. Treaties not modified by MLI
+MLI is not applicable because the country is not a signatory to OECD BEPS MLI or not listing its DTA with Malaysia to be modified by MLI.
+Based on the
+current (https://www.oecd.org/tax/treaties/beps-mli-signatories-and-parties.pdf)
+MLI positions or jurisdictions that have not signed the MLI, Malaysia treaties not modified by MLI include:
+| COUNTRY |
+| --- |
+| 1 | Bangladesh | 2 | Brunei | 3 | Cambodia | 4 | Germany |
+
+--- CHUNK 6 ---
+| COUNTRY |
+| --- |
+| 1 | Bangladesh | 2 | Brunei | 3 | Cambodia | 4 | Germany |
+| 5 | Iran | 6 | Kyrgyz Republic | 7 | Laos | 8 | Lebanon |
+| 9 | Myanmar | 10 | Norway | 11 | Philippines | 12 | Sri Lanka |
+| 13 | Sudan | 14 | Switzerland | 15 | Syria | 16 | Turkmenistan |
+| 17 | Uzbekistan | 18 | Venezuela | 19 | Zimbabwe |  |  |
+Countries with treaties not modified by the MLI will not automatically adopt the treaty-related BEPS MLI Minimum Standards. However, these countries may still implement the BEPS MLI Minimum Standards through bilateral negotiations or renegotiations of the DTA.
+e. Provisions adopted
+The MLI contains both minimum standard and optional provisions. Malaysia’s positions are as follows:
+Minimum standard provisions:
+
+--- CHUNK 7 ---
+Minimum standard provisions:
+Article 6 (Purpose of a covered tax agreement) – To include a statement of intent in the preamble of the covered tax agreement that tax treaties are not intended to create opportunities for non-taxation or reduced taxation through tax evasion or avoidance, including through treaty-shopping arrangements.;
+Article 7 (Preventing treaty abuse) – To include a general anti-abuse rule in the covered tax agreement, commonly known as the Principal Purpose Test (PPT);
+Article 16 (Mutual agreement procedure) – To update the Mutual Agreement Procedure in the treaty to new rules of resolution of disputes procedure which among others, allows the aggrieved party to present his case to the competent authority of either Contracting State, sets the duration of 3 years for MAP application, no time limit to implement agreements reached and the resolution of disputes regarding interpretation or application of double tax agreement and cases of elimination of double taxation.
+
+--- CHUNK 8 ---
+Optional provisions:
+Article 3(1) (Transparent entity) – Treaty benefits will be granted for income derived through fiscally transparent entities, such as partnerships or trusts, where one of the two countries treats the income as income of one of its residents under its domestic law. These rules will not prevent either country from taxing its own residents.
+Article 12 (Artificial avoidance of permanent establishment status through commissionaire arrangements and similar strategies) – If an agent or intermediary plays the principal role in concluding substantively finalised business contracts in a country on behalf of a foreign enterprise, that arrangement will constitute a ‘permanent establishment’ of the foreign enterprise in that country.
+
+--- CHUNK 9 ---
+Article 13 (Artificial avoidance of permanent establishment status through the specific activity exemptions) – Only genuine preparatory or auxiliary activities will be excluded from the definition of permanent establishment. In addition, related entities will be prevented from fragmenting their activities in order to qualify for this exclusion.
+Article 15 (Definition of a person closely related to an enterprise) – Definition of a ‘person closely related to an enterprise’ for the purpose of permanent establishment Articles.
+Article 17 (Corresponding adjustments) – It provides that a country to make a corresponding adjustment to the profits of a resident entity, as a result of an adjustment by the other country to the profits of an associated entity which is a resident of that other country if the adjustment is justified, in order to alleviate double taxation.
+
+--- CHUNK 10 ---
+The MLI will modify Malaysia’s treaties if both treaty partners share the same position on the provisions of the MLI. The extent to which the MLI will modify these treaties will depend on the final positions at the time of ratification of MLI of both countries. The synthesised text (ST) document published highlights the treaty provision’s modified (or replaced) by the MLI provision.
+f. MLI Status
+The MLI has been gazetted on 4th August 2020 through
+P.U. (A) 224 (https://www.hasil.gov.my/wp-content/uploads/pua_20200804_pu-a-224.pdf)
+. Malaysia has deposited the instrument of ratification on 18 February 2021. The MLI for Malaysia will enter into force on 1 June 2021. Generally, the provisions will take effect after the expiration of a period of six calendar months from the latest dates on which the MLI enters into force for each of the Contracting States.
+Malaysia’s positions on the MLI can be found as follow:
+
+--- CHUNK 11 ---
+Malaysia’s positions on the MLI can be found as follow:
+2021 (https://www.hasil.gov.my/wp-content/uploads/beps-mli-position-malaysia-instrument-deposit.pdf)
+2022 (https://www.hasil.gov.my/wp-content/uploads/beps-mli-position-malaysia-consolidated.pdf)
+Please visit the
+OECD website (https://www.oecd.org/en/topics/beps-multilateral-instrument.html)
+for further information on MLI.
+

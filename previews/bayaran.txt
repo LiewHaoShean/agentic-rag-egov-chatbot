@@ -1,0 +1,284 @@
+URL: https://www.hasil.gov.my/en/individu/bayaran
+TITLE: Kaedah Pembayaran
+CATEGORY: tax
+DOCUMENT_ID: 0b2e581a-856b-5d7a-93ab-2d4103f6a6f0
+==================================================
+
+--- CHUNK 0 ---
+Kaedah Pembayaran
+Individu
+Buka Semua
+Pengenalan Nombor Bil Sebagai Rujukan Bayaran Selain Daripada Nombor Pengenalan Cukai (TIN)
+Dimaklumkan bahawa Lembaga Hasil Dalam Negeri Malaysia (HASiL) telah memperkenalkan penggunaan Nombor Bil sebagai rujukan mandatori bagi urusan pembayaran semua jenis cukai langsung kecuali bayaran Potongan Cukai Bulanan (PCB) dan Duti Setem bermula 1 Januari 2023.
+Walau bagaimanapun, penggunaan Nombor Pengenalan Cukai (TIN) sebagai rujukan bayaran masih digunapakai bagi tempoh peralihan sehingga dimaklumkan kelak.
+Perkhidmatan ByrHASiL dan e-PCB Plus melalui FPX
+Perkhidmatan ini menggunakan FPX sebagai Gateway untuk pengguna membayar cukai.
+Pengguna perlu mempunyai akaun perbankan internet dengan mana-mana bank yang menyertai FPX. Sila klik pautan berikut bagi senarai bank yang terlibat:
+https://www.paynet.my/business-solutions/fpx/contact-your-preferred-banks-tpa.html
+Sila layari:
+ByrHASiL
+(menggunakan Nombor Pengenalan Cukai (TIN) atau Nombor Bil)
+
+--- CHUNK 1 ---
+Sila layari:
+ByrHASiL
+(menggunakan Nombor Pengenalan Cukai (TIN) atau Nombor Bil)
+Had amaun bagi setiap transaksi bayaran bagi perkhidmatan FPX di ByrHASiL adalah seperti berikut:
+| JENIS AKAUN | HAD TRANSAKSI |
+| --- | --- |
+| Individu | RM5 Juta (Had sebelum itu RM500 ribu) |
+| Korporat / Perniagaan | RM250 Juta (Had sebelum itu RM100 juta) |
+https://byrhasil.hasil.gov.my/
+Walau bagaimanapun, had transaksi bayaran ini juga bergantung kepada had pengeluaran/transaksi maksimum yang telah ditetapkan oleh pemilik akaun atau bank berkaitan.
+Sebagai contoh, walaupun had transaksi bagi individu menerusi FPX di ByrHASiL adalah sebanyak RM500 ribu, tetapi had pengeluaran maksimum akaun bank pembayar cukai ditetapkan sebanyak RM50 ribu, pembayar cukai masih tidak dapat membuat bayaran sekali gus kerana telah melebihi had pengeluaran maksimum yang ditetapkan. Pembayar cukai perlu berurusan dengan bank bagi peningkatan had transaksi berkenaan.
+e-PCB Plus
+https://mytax.hasil.gov.my/
+
+--- CHUNK 2 ---
+e-PCB Plus
+https://mytax.hasil.gov.my/
+log masuk dan pilih peranan
+Bayaran Cukai di Kaunter Pusat Pengurusan Terimaan HASiL LHDNM
+LHDNM telah melaksanakan penamatan penerimaan instrumen bayaran cukai secara manual (tunai, cek dan bank deraf) bagi semua bayaran cukai langsung di Pusat Pengurusan Terimaan Hasil (PPTH) Kuching dan Kota Kinabalu bermula 01 Februari 2024. Hanya PPTH Kuala Lumpur sahaja yang akan menerima instrumen bayaran cukai secara manual. Bagi jenis bayaran cukai berikut:
+| No. | Jenis Bayaran Cukai | Medium Bayaran | Rujukan Bayaran |
+| --- | --- | --- | --- |
+| 1. | Bayaran Kompaun | Tunai Bank draft | Nombor Bil |
+| 2. | Cukai Pendapatan sahaja | Kad Kredit / Kad Debit yang dikeluarkan dalam Malaysia sahaja | Nombor Bil |
+Caj Pentadbiran bayaran cukai menggunakan kad kredit sebanyak 0.8% ditanggung sepenuhnya oleh kerajaan bermula 2 Disember 2024.
+
+--- CHUNK 3 ---
+Lain-lain bayaran yang tidak disenaraikan seperti perenggan diatas akan dihentikan penerimaannya di kaunter Pusat Pengurusan Terimaan HASiL dan hanya boleh dibuat melalui kaedah bayaran seperti berikut:
+Portal MyTax di
+https://mytax.hasil.gov.my
+melalui ‘Perkhidmatan ezHasil’ > ‘ByrHASiL’
+Portal perbankan internet bank komersial yang dilantik sebagai ejen kutipan HASiL
+Kaunter Pos Malaysia dan bank komersial yang dilantik sebagai ejen kutipan HASiL
+Mesin deposit tunai bank yang dilantik sebagai ejen kutipan HASiL
+Mesin juruwang automatik (ATM) bank yang dilantik sebagai ejen kutipan HASiL
+LHDNM telah melaksanakan pemberhentian penerimaan cek dan Money Order/Postal Order (MOPO) sebagai instrumen terimaan bagi bayaran cukai langsung di semua Pusat Pengurusan Terimaan Hasil (PPTH) LHDNM, Kaunter Bayaran Duti Setem, Bank dan Pejabat Pos yang menjadi ejen kutipan bayaran LHDNM bermula 1 Ogos 2023.
+Pelaksanaan ini terpakai bagi semua jenis bayaran cukai langsung
+kecuali
+
+--- CHUNK 4 ---
+Pelaksanaan ini terpakai bagi semua jenis bayaran cukai langsung
+kecuali
+Bayaran Cukai Pendapatan bagi bayaran pendahuluan dan ansuran kes Audit, Siasatan dan Guaman Sivil menggunakan Cek/ Post Dated Cheque (PDC) yang telah dikemukakan kepada LHDNM sebelum 1 Ogos 2023.
+Bayaran Cukai Pendapatan Melalui Kad Kredit/Kad Debit di Kaunter Pusat Pengurusan Terimaan HASiL
+Kaunter Pusat Pengurusan Terimaan Hasil Kuala Lumpur (PPTH KL) menyediakan kaedah bayaran menggunakan kad kredit dan kad debit.
+Perkhidmatan ini boleh digunakan untuk semua kad kredit
+VISA
+dan
+Mastercard
+yang dikeluarkan di Malaysia.
+Kod bayaran yang dibenarkan bagi bayaran Kad Kredit/Kad Debit di Kaunter Pusat Pengurusan Terimaan Hasil (individu) adalah seperti berikut:
+| Item | Kod Bayaran | Keterangan |
+| --- | --- | --- |
+| 1 | 084 | Bayaran Ansuran Cukai/ Baki Cukai Individu |
+| 2 | 088 | Pendahuluan / Ansuran Cukai Komposit |
+| 3 | 095 | Bayaran Cukai Pendapatan (tidak termasuk skim ansuran) |
+
+--- CHUNK 5 ---
+| 3 | 095 | Bayaran Cukai Pendapatan (tidak termasuk skim ansuran) |
+| 4 | 150 | Bayaran Kenaikan Seksyen 103A / 103 |
+| 5 | 153 | Bayaran Kenaikan Komposit |
+| 6 | 154 | Bayaran Kenaikan Seksyen 107C(9) / 107B(3) |
+| 7 | 155 | Bayaran Kenaikan Seksyen 107C(10) / 107B(4) |
+| 8 | 156 | Bayaran Kos Mahkamah |
+| 9 | 157 | Bayaran Faedah Atas Hutang Hukuman |
+| 10 | 158 | Bayaran Ansuran Dibenarkan oleh Audit |
+| 11 | 159 | Bayaran Ansuran Dibenarkan oleh Unit Pemungutan |
+| 12 | 160 | Bayaran Ansuran Dibenarkan oleh Unit Guaman Sivil |
+| 13 | 173 | Bayaran Kos Guaman |
+| 14 | 196 | Bayaran Penyelesaian Cukai |
+| 15 | 197 | Bayaran Penyelesaian Cukai – Majikan |
+| 16 | 259 | Bayaran Seniman Kembara |
+| 17 | 351 | Bayaran Semula Pampasan 2% |
+| 18 | 353 | Bayaran Kenaikan Pampasan 2% |
+| 19 | 361 | Bayaran Penalti Khas Subseksyen 113(1)/114(1) |
+| 20 | 362 | Bayaran Taksiran LBATA (Kadar Tetap RM 20,000.00) |
+Perkhidmatan Bayaran Cukai Oleh Ejen Kutipan HASiL (Bank dan Pejabat Pos)
+
+--- CHUNK 6 ---
+Perkhidmatan Bayaran Cukai Oleh Ejen Kutipan HASiL (Bank dan Pejabat Pos)
+Bayaran di Kaunter
+Bayaran Cukai Pendapatan dan Cukai Keuntungan Harta Tanah (CKHT)
+Bermula 1 Ogos 2023, LHDNM telah melaksanakan pemberhentian penerimaan cek, Bank Draft dan Money Order/Postal Order (MOPO) sebagai instrumen terimaan bagi bayaran cukai langsung di semua Kaunter Bayaran Bank dan Pejabat Pos yang menjadi ejen kutipan bayaran LHDNM.
+Selaras dengan pelaksanaan penggunaan Nombor Bil sebagai rujukan mandatori bagi urusan pembayaran semua jenis cukai langsung bermula 1 Januari 2023, berikut adalah maklumat jenis perkhidmatan, jenis bayaran, caj serta rujukan bayaran bagi ejen kutipan hasil;
+| Bank Ejen | Jenis Perkhidmatan | Jenis Bayaran | Caj Yang Dikenakan | Rujukan Bayaran |
+| --- | --- | --- | --- | --- |
+| Public Bank | Bayaran Cukai Pendapatan & CKHT | IBG (Current Account) | Tiada caj yang dikenakan | Nombor Bil |
+| Affin Bank | IBG (Current Account) | Tiada caj yang dikenakan | Nombor Bil |
+
+--- CHUNK 7 ---
+| Affin Bank | IBG (Current Account) | Tiada caj yang dikenakan | Nombor Bil |
+| BSN – Dihentikan sementara berikutan pelaksanaan proses menaik taraf penambahbaikan perkhidmatan di pihak bank bermula 30/8/2023 | Tunai | Tiada caj yang dikenakan | Nombor Pengenalan Cukai (TIN) |
+| IBG (Current Account) |
+| Maybank | Tunai | RM1.00 | Nombor Bil |
+| CIMB Bank | Tunai (Bayaran Amaun Penuh) | Tiada caj yang dikenakan | Nombor Bil |
+| IBG (Current Account) (Bayaran Amaun Penuh) |
+| Pos Malaysia | Tunai | Tiada caj yang dikenakan | Nombor Bil |
+| RHB | IBG (Current Account) | Tiada caj yang dikenakan | Nombor Bil |
+Bank mengenakan caj tertentu bagi bayaran menggunakan tunai di kaunter perkhidmatan seperti jadual di atas.
+Maklumat berikut perlu diisi ke dalam slip bayaran di bank:
+Bayaran menggunakan Nombor Bil/Nombor Pengenalan Cukai (TIN) sebagai rujukan bayaran:
+| TIN | Nombor Bil |
+
+--- CHUNK 8 ---
+| TIN | Nombor Bil |
+| Kod Bayaran Nama Pembayar Cukai/Majikan No. Rujukan Cukai/No Rujukan Majikan No. Kad Pengenalan Tahun Taksiran bagi bayaran yang dibuat/Tahun dan Bulan potongan bagi bayaran PCB Amaun bayaran | Nombor Bil Amaun bayaran |
+Bayaran PCB
+Bayaran PCB boleh dibuat di saluran bayaran seperti berikut (setelah penghantaran data dibuat melalui sistem perkhidmatan PCB (e-PCB Plus) seperti e-Data PCB, e-PCB atau e-CP39 (Rujuk maklumat saluran bayaran pada
+Slip Pengesahan Data
+):
+Financial Process Exchange (FPX)
+Kaunter Bank/Automated Teller Machine (ATM)
+IBG/RENTAS/Telegraphic Transfer (TT)/Cash Transfer
+Bayaran Melalui Internet
+Bayaran melalui portal perbankan internet bank
+Kemudahan pembayaran cukai turut disediakan melalui portal perbankan internet ejen kutipan HASiL yang telah dilantik seperti berikut:
+| Bank | Jenis Bayaran |
+| Cukai Pendapatan | PCB |
+| Alliance Bank | Ya | Ya |
+| CIMB Bank | Ya | Ya |
+| Citibank | – | Ya |
+| Hong Leong Bank | Ya | Ya |
+
+--- CHUNK 9 ---
+| CIMB Bank | Ya | Ya |
+| Citibank | – | Ya |
+| Hong Leong Bank | Ya | Ya |
+| Maybank | Ya | Ya |
+| Public Bank | Ya | Ya |
+| RHB Bank | Ya | Ya |
+| POS Malaysia | – | – |
+| Ambank | – | Ya |
+| OCBC Bank | – | Ya |
+| HSBC Bank | – | Ya |
+| Bank Islam | Dihentikan sementara berikutan pelaksanaan proses menaik taraf penambahbaikan perkhidmatan di pihak bank | Ya |
+| Bank Simpanan Nasional | Dihentikan sementara berikutan pelaksanaan proses menaik taraf penambahbaikan perkhidmatan di pihak bank | Ya |
+| Agro Bank | – | Ya |
+| MBSB Bank | Ya | Ya |
+| Affin Bank | – | Ya |
+| JP Morgan Chase Berhad | Ya | Ya |
+| Bank Muamalat | Ya | Ya |
+Bayaran Melalui Mesin ATM Bank
+Bayaran Cukai Pendapatan boleh dilakukan melalui Auto Teller Machine (ATM) di bank-bank berikut:
+| Bank | Rujukan Bayaran |
+| 1. Public Bank | Nombor Bil |
+| 2. Maybank | Nombor Bil |
+| 3. CIMB Bank | Nombor Bil |
+| 4. RHB Bank | Nombor Bil |
+
+--- CHUNK 10 ---
+| 2. Maybank | Nombor Bil |
+| 3. CIMB Bank | Nombor Bil |
+| 4. RHB Bank | Nombor Bil |
+Bagi membolehkan pembayaran melalui mesin ATM, pembayar cukai perlu memiliki kad ATM bagi bank berkenaan dan maklumat yang diperlukan untuk melaksanakan transaksi bayaran adalah Nombor Bil.
+Bayaran Melalui Tele-Perbankan
+Bayaran Cukai Pendapatan melalui perkhidmatan tele-perbankan disediakan melalui;
+Bayaran CP melalui telefon bimbit disediakan melalui aplikasi Perbankan Mudah Alih RHB – (individu sahaja)
+Bayaran Melalui Deposit Wang Tunai (Cash Deposit Machine)
+Bayaran Cukai Pendapatan boleh dilaksanakan di CIMB Bank (Individu) dan Public Bank Berhad dengan menggunakan Nombor Bil sebagai rujukan bayaran.
+Bayaran Cukai Secara Telegraphic Transfer (TT)/ Electronic Funds Transfer (EFT) dan Interbank Giro (IBG)
+LHDNM telah memperkenalkan
+Sistem e-TT
+bermula
+1 April 2022
+bagi bayaran cukai pendapatan
+
+--- CHUNK 11 ---
+LHDNM telah memperkenalkan
+Sistem e-TT
+bermula
+1 April 2022
+bagi bayaran cukai pendapatan
+melalui kaedah pindahan Telegraphic Transfer (TT)/ Electronic Funds Transfer (EFT) dan Interbank Giro (IBG)
+dari dalam dan luar negara.
+Pelaksanaan penambahbaikan Sistem e-TT telah dilaksanakan bermula 22 Julai 2025 yang melibatkan pilihan janaan nombor VA menggunakan nombor Bil serta penghantaran resit bayaran melalui emel.
+e-TT merupakan sistem yang akan menjana Nombor Akaun Maya (Virtual Account Number (VA) sebagai identiti pengenalan bayaran. Pembayar cukai yang hendak membuat bayaran cukai menerusi kaedah pindahan telegrafik (TT) dari dalam dan luar negara dikehendaki untuk mengakses Sistem e-TT yang boleh dicapai di Portal MyTax di https://mytax.hasil.gov.my melalui
+‘Perkhidmatan ezHasil’ > ‘e-TT’
+dan mengisi maklumat bayaran dengan lengkap sebelum penjanaan Nombor Virtual Account (VA). Nombor VA yang diberikan perlu digunakan sebagai
+nombor akaun
+semasa membuat bayaran.
+
+--- CHUNK 12 ---
+nombor akaun
+semasa membuat bayaran.
+Sistem ini diperkenalkan bagi bayaran cukai pendapatan, cukai petroleum, Bayaran Kompaun dan Cukai Pegangan.
+Bayaran cukai menggunakan VA dari Sistem e-TT boleh dilakukan melalui:
+Portal perbankan internet menerusi IBG/RENTAS/Pindahan Telegrafik /Pindahan Wang
+Kaunter Bank: IBG/RENTAS/Pindahan Telegrafik /Pindahan Wang sahaja*
+*Bayaran secara tunai dan cek tidak dibenarkan
+Mesin Wang Automatik (Automated Teller Machine (ATM)
+Resit bayaran akan dikeluarkan berdasarkan kepada maklumat yang diterima di Portal eTT serta nombor bil. Tiada pindaan resitan bagi maklumat seperti perubahan/tambahan nama pembayar, nama penerima, pindaan no. rujukan, kod bayaran, tahun taksiran dan maklumat-maklumat lain. Pembayar cukai perlu merujuk kepada Pejabat HASiL bagi permohonan pindaan/pelarasan resit.
+Kod Bayaran
+Jadual Kod Bayaran Cukai Pendapatan dan Cukai Keuntungan Harta Tanah (CKHT)
+| 2 | 086 | Bayaran Ansuran Cukai Syarikat |
+
+--- CHUNK 13 ---
+| 2 | 086 | Bayaran Ansuran Cukai Syarikat |
+| 3 | 088 | Pendahuluan / Ansuran Cukai Komposit |
+| 4 | 090 | Bayaran Cukai Keuntungan Harta Tanah |
+| 5 | 095 | Bayaran Cukai Pendapatan (tidak termasuk skim ansuran) |
+| 6 | 150 | Bayaran Kenaikan Seksyen 103A / 103 |
+| 7 | 151 | Bayaran Seksyen 108 |
+| 8 | 152 | Bayaran Kenaikan Seksyen 108 |
+| 9 | 153 | Bayaran Kenaikan Komposit |
+| 10 | 154 | Bayaran Kenaikan Seksyen 107C(9) / 107B(3) |
+| 11 | 155 | Bayaran Kenaikan Seksyen 107C(10) / 107B(4) |
+| 12 | 156 | Bayaran Kos Mahkamah |
+| 13 | 157 | Bayaran Faedah Atas Hutang Hukuman |
+| 14 | 158 | Bayaran Ansuran Dibenarkan oleh Audit |
+| 15 | 159 | Bayaran Ansuran Dibenarkan oleh Unit Pemungutan |
+| 16 | 160 | Bayaran Ansuran Dibenarkan oleh Unit Guaman Sivil |
+| 17 | 173 | Bayaran Kos Guaman |
+| 18 | 178 | Bayaran Seksyen 108 (Sek 25) |
+| 19 | 181 | Bayaran Kenaikan Seksyen 25 |
+| 20 | 196 | Bayaran Penyelesaian Cukai |
+| 21 | 197 | Bayaran Penyelesaian Cukai – Majikan |
+
+--- CHUNK 14 ---
+| 20 | 196 | Bayaran Penyelesaian Cukai |
+| 21 | 197 | Bayaran Penyelesaian Cukai – Majikan |
+| 22 | 250 | Bayaran Kenaikan CKHT Oleh Pelupus |
+| 23 | 286 | Bayaran Kenaikan CKHT Oleh Pemeroleh |
+| 24 | 092 | Bayaran Potongan Cukai Bulanan (PCB) |
+| 25 | 253 | Bayaran Faedah Atas Hutang Mahkamah – CKHT |
+| 26 | 254 | Bayaran Ansuran (Audit) – CKHT |
+| 27 | 255 | Bayaran Ansuran (Unit Pemungutan) – CKHT |
+| 28 | 256 | Bayaran Ansuran (Unit Guaman Sivil) – CKHT |
+| 29 | 257 | Bayaran Kos Guaman – CKHT |
+Carta Perkhidmatan Pembayaran Menerusi Ejen Kutipan HASiL
+| Bank Ejen | Bayaran Cukai Pendapatan | Bayaran PCB |
+| Jenis Bayaran | Kaunter | ATM | Perbankan Internet | Perbankan Telefon / Mobile | Mesin Deposit Tunai (CAM) | Rujukan Bayaran | Kaunter | Perbankan Internet*** |
+| Alliance Bank | – | – | Ya | – | – | No Bil | IBG* | Ya |
+| Affin Bank | Ya | – | Ya | – | – | No Bil | IBG* | Ya |
+
+--- CHUNK 15 ---
+| Affin Bank | Ya | – | Ya | – | – | No Bil | IBG* | Ya |
+| CIMB Bank | Ya (Tunai & Debit Akaun) Bayaran Amaun Penuh | Ya | Ya Bayaran Amaun Penuh | – | Ya | No Bil | Tunai / IBG* | Ya |
+| Citibank | Dihentikan sementara berikutan pelaksanaan proses menaik taraf penambahbaikan perkhidmatan di pihak bank | IBG* | Ya |
+| Hong Leong Bank | – | – | Ya | – | – | No Bil | IBG* | Ya |
+| Maybank | Ya | Ya | Ya | – | – | No Bil | IBG* | Ya |
+| Public Bank | Ya (Debit Akaun sahaja) | Ya | Ya | – | Ya | No Bil | IBG* | Ya |
+| RHB Bank | Ya (Debit Akaun sahaja) | Ya | Ya (Individu sahaja) | Ya | – | No Bil | IBG* | Ya |
+| POS Malaysia | Ya (Tunai sahaja) | – | – | – | – | No Bil | Tunai sahaja** | – |
+| Ambank | – | – | – | – | – | – | IBG* | Ya |
+| OCBC Bank | – | – | – | – | – | – | IBG* | Ya |
+| HSBC Bank | – | – | – | – | – | – | IBG* | Ya |
+| Bank Islam | Dihentikan sementara berikutan pelaksanaan proses menaik taraf penambahbaikan perkhidmatan di pihak bank | IBG* | Ya |
+
+--- CHUNK 16 ---
+| Bank Rakyat | – | IBG* | Ya |
+| Bank Simpanan Nasional | Dihentikan sementara berikutan pelaksanaan proses menaik taraf penambahbaikan perkhidmatan di pihak bank |
+| Agro Bank | – | – | – | – | – | – | IBG* | Ya |
+| MBSB Bank | – | – | Ya | – | – | No Bil | IBG* | Ya |
+| J.P. Morgan Chase Berhad | – | – | Ya | – | – | No Bil | IBG* | Ya |
+| Bank Muamalat | – | – | Ya | – | – | No Bil | IBG* | Ya |
+IBG*
+(menggunakan nombor Akaun PCB/CP39)
+Tunai sahaja**
+– Pengisian data dibuat melalui sistem e-Data PCB atau e-PCB HASiL
+Perbankan Internet***
+– Pengisian data PCB pekerja dan bayaran dilakukan menerusi perbankan internet bank
+
