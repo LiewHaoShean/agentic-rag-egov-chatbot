@@ -5,6 +5,7 @@ DOCUMENT_ID: 75043a18-c47a-5bcc-9bd6-68e8a8695b5d
 ==================================================
 
 --- CHUNK 0 ---
+EPF Contribution Eligibility and Rates
 Register As A Member
 Who Can Contribute
 Individuals who are employed, self-employed or business owners can opt to contribute based on their own requirements. In the following pages, we have entailed the details that go with Mandatory and Voluntary contributions. As a member, you are eligible to not only enjoy annual dividends on your retirement savings, but also the many withdrawal options and benefits that come with being an EPF Member.
@@ -16,14 +17,14 @@ Our Members
 • Non-Pensionable Public Sector Employees
 • Voluntary Contributors
 Total Members
-18.3 MILLION
-March 2026
+18.4 MILLION
+June 2026
 Active Members
-10.8 MILLION
-March 2026
+10.9 MILLION
+June 2026
 Employers
-642,609
-March 2026
+645,207
+June 2026
 Contribution Rates For Members And Employers
 | Employee’s Status | Monthly Salary Rate | Stage 1 (Below 60 years old) | Stage 2 (Age 60 and above) |
 | --- | --- | --- | --- |

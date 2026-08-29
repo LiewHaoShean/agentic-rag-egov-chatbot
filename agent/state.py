@@ -22,6 +22,11 @@ class AgentState(TypedDict, total=False):
     user_id: str
     conversation_id: str
 
+    # Standalone search query: the user's message with pronouns/ellipsis
+    # resolved from conversation context ("how much does it cost?" ->
+    # "EPF withdrawal fee at age 55"). Falls back to user_text verbatim.
+    search_query: Optional[str]
+
     # Retrieval outputs.
     retrieved_chunks: list[dict[str, Any]]
     retrieved_chunk_ids: list[str]
@@ -29,9 +34,10 @@ class AgentState(TypedDict, total=False):
     # Bounded retry counter — conditional edge forces exit at >= 1.
     retry_count: int
 
-    # Guardrail / routing decisions. "error" = the guard LLM call itself
-    # failed (outage/quota) — routed to a busy message, NOT to blocked.
-    guard_decision: Optional[Literal["ok", "harmful", "error"]]
+    # Guardrail / routing decisions.
+    #   "meta"  = conversational/about-the-assistant; answered without RAG.
+    #   "error" = the guard LLM call itself failed (outage/quota) -> busy msg.
+    guard_decision: Optional[Literal["ok", "harmful", "meta", "error"]]
 
     # Generated answer + validation verdict.
     draft_answer: Optional[str]

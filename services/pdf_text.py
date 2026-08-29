@@ -46,7 +46,19 @@ def extract_text(pdf_bytes: bytes) -> str:
                 log.warning("PDF page %d OCR failed: %s", i + 1, exc)
         out.append(text)
 
+    # Truncate FIRST, then append the notice — appending before the slice meant
+    # the warning was cut off in exactly the case it matters most (a long
+    # document trips both caps, since 10 pages of policy text far exceeds
+    # MAX_CHARS). The model must know it is reading a fragment.
     combined = "\n".join(out).strip()
+    was_truncated = len(combined) > MAX_CHARS
+    combined = combined[:MAX_CHARS]
+
+    notes: list[str] = []
     if total > MAX_PAGES:
-        combined += f"\n\n[... document continues: {total - MAX_PAGES} more pages not shown]"
-    return combined[:MAX_CHARS]
+        notes.append(f"{total - MAX_PAGES} more pages not shown")
+    if was_truncated:
+        notes.append("text truncated")
+    if notes:
+        combined += f"\n\n[... document continues: {'; '.join(notes)}]"
+    return combined

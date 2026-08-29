@@ -1,7 +1,7 @@
 """Pydantic request/response models for the WhatsApp webhook bridge."""
 from typing import Literal, Optional
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, model_validator
 
 MessageType = Literal["text", "audio", "image", "document"]
 
@@ -34,6 +34,19 @@ class WhatsAppWebhookPayload(BaseModel):
 
     # Optional conversation hint from n8n; otherwise resolved/created server-side.
     conversation_id: Optional[str] = None
+
+    @model_validator(mode="after")
+    def _media_types_require_a_path(self) -> "WhatsAppWebhookPayload":
+        """Reject a media message that carries nothing to fetch.
+
+        worker/tasks.py already refuses these, but only after the webhook has
+        answered 202 and queued the task, so the sender is told the message was
+        accepted and the failure surfaces later in the worker with no way back
+        to n8n. Validating here turns it into a 422 at ingress instead.
+        """
+        if self.type != "text" and not self.media_path:
+            raise ValueError(f"media_path required for type={self.type}")
+        return self
 
 
 class WebhookAck(BaseModel):

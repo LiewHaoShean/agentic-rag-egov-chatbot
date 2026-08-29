@@ -12,10 +12,33 @@ from core.logging import get_logger
 log = get_logger(__name__)
 
 
+def _force_http1(session) -> None:
+    """Rebuild an httpx session with HTTP/2 disabled, preserving its config.
+
+    Supabase's client negotiates HTTP/2. On some networks an intermediary
+    terminates the h2 connection after the first exchange (GOAWAY with
+    error_code 0), so every SECOND request on a reused connection dies with
+    RemoteProtocolError while the first succeeds. Measured behaviour on the
+    development network was 200 / fail / 200 / fail over HTTP/2 and 6 of 6
+    successes over HTTP/1.1 against the same endpoint.
+
+    supabase 2.11.0 exposes no option for this, so the session is rebuilt.
+    HTTP/1.1 costs a little multiplexing efficiency and buys reliability.
+    """
+    import httpx
+
+    session._transport = httpx.HTTPTransport(http2=False)
+
+
 @lru_cache
 def get_client() -> Client:
     """Service-role client. NEVER expose this key to clients."""
-    return create_client(settings.supabase_url, settings.supabase_service_role_key)
+    client = create_client(settings.supabase_url, settings.supabase_service_role_key)
+    _force_http1(client.postgrest.session)
+    storage_session = getattr(client.storage, "_client", None)
+    if storage_session is not None:
+        _force_http1(storage_session)
+    return client
 
 
 # ----------------------------------------------------------------- Retrieval
@@ -28,10 +51,17 @@ def hybrid_search(
     weight_fts: float = 1.0,
     filter_category: str | None = None,
     only_public: bool = True,
+    rpc_name: str = "hybrid_search",
 ) -> list[dict[str, Any]]:
-    """Call the in-DB hybrid_search RPC (pgvector + FTS, RRF fused in Postgres)."""
+    """Call the in-DB hybrid RPC (pgvector + FTS, RRF fused in Postgres).
+
+    rpc_name selects the keyword-channel implementation. "hybrid_search" is the
+    original AND-semantics version; "hybrid_search_v2" (migration 002) drops
+    stopwords and ORs the remaining terms. Both exist simultaneously so the two
+    can be evaluated against the same corpus without a destructive change.
+    """
     res = get_client().rpc(
-        "hybrid_search",
+        rpc_name,
         {
             "query_text": query_text,
             "query_embedding": query_embedding,
@@ -47,15 +77,57 @@ def hybrid_search(
 
 
 # ----------------------------------------------------------- Conversation memory
+# A WhatsApp chat has no explicit session boundary, so consecutive messages are
+# treated as one conversation until this much time passes with no activity.
+CONVERSATION_IDLE_HOURS = 12
+
+
 def get_or_create_conversation(user_id: str, conversation_id: str | None) -> str:
+    """Resume the user's current conversation, or start a new one.
+
+    Without this lookup every inbound message created a fresh conversation, so
+    load_recent_messages() always returned an empty history and the agent had
+    no multi-turn memory at all (follow-ups like "explain that in English" or
+    "what about after 55?" lost all context).
+    """
     client = get_client()
     if conversation_id:
         return conversation_id
-    res = (
+
+    # Most recent conversation for this user.
+    recent = (
         client.table("conversation")
-        .insert({"user_id": user_id})
+        .select("conversation_id")
+        .eq("user_id", user_id)
+        .order("created_at", desc=True)
+        .limit(1)
         .execute()
+        .data
     )
+    if recent:
+        cid = recent[0]["conversation_id"]
+        # Reuse it only if it is still "live" — i.e. its last message is recent.
+        last = (
+            client.table("message")
+            .select("created_at")
+            .eq("conversation_id", cid)
+            .order("created_at", desc=True)
+            .limit(1)
+            .execute()
+            .data
+        )
+        if last:
+            from datetime import datetime, timedelta, timezone
+
+            ts = datetime.fromisoformat(last[0]["created_at"].replace("Z", "+00:00"))
+            if datetime.now(timezone.utc) - ts < timedelta(hours=CONVERSATION_IDLE_HOURS):
+                return cid
+        else:
+            # Empty conversation (previous task failed before saving) — reuse it
+            # rather than leaving orphans behind on every Celery retry.
+            return cid
+
+    res = client.table("conversation").insert({"user_id": user_id}).execute()
     return res.data[0]["conversation_id"]
 
 

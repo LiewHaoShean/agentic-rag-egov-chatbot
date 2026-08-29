@@ -1,0 +1,99 @@
+# Deployment stack for a single Compute Engine VM.
+#
+# Only Caddy publishes ports. n8n, the API, the worker and Redis communicate on
+# the internal bridge network and are unreachable from the internet, which is a
+# meaningful improvement over the development tunnel where the API listened on a
+# host port. Meta reaches the n8n webhook through Caddy over TLS; every hop after
+# that stays inside the VM.
+
+services:
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    # appendonly keeps the idempotency keys across a restart, so a redelivery
+    # arriving during a deploy is still recognised as a duplicate.
+    command: ["redis-server", "--appendonly", "yes"]
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 5
+
+  api:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      # Overrides the localhost default in core/config.py — inside the network
+      # the broker is reachable by service name.
+      REDIS_URL: redis://redis:6379/0
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-fsS", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+  worker:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      REDIS_URL: redis://redis:6379/0
+      CALLBACK_DLQ_PATH: /app/data/callback_dlq.jsonl
+    # Concurrency 2 rather than the default (one process per CPU). Each task is
+    # dominated by waiting on remote model APIs, not by local computation, and a
+    # higher number multiplies the Vertex quota pressure seen during evaluation.
+    command: ["celery", "-A", "worker.celery_app", "worker", "--loglevel=info", "--concurrency=2"]
+    depends_on:
+      redis:
+        condition: service_healthy
+    volumes:
+      - worker-data:/app/data
+
+  n8n:
+    image: n8nio/n8n:latest
+    restart: unless-stopped
+    environment:
+      # n8n builds its public webhook URL from these, so they must describe the
+      # address Meta calls, not the container's own port.
+      N8N_HOST: ${PUBLIC_HOST}
+      N8N_PORT: 5678
+      N8N_PROTOCOL: https
+      WEBHOOK_URL: https://${PUBLIC_HOST}/
+      N8N_PROXY_HOPS: 1
+      GENERIC_TIMEZONE: Asia/Kuala_Lumpur
+      N8N_BASIC_AUTH_ACTIVE: "true"
+      N8N_BASIC_AUTH_USER: ${N8N_USER}
+      N8N_BASIC_AUTH_PASSWORD: ${N8N_PASSWORD}
+    volumes:
+      - n8n-data:/home/node/.n8n
+    depends_on:
+      - api
+
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      PUBLIC_HOST: ${PUBLIC_HOST}
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy-data:/data      # certificates, must persist or Let's Encrypt rate-limits
+      - caddy-config:/config
+    depends_on:
+      - n8n
+
+volumes:
+  redis-data:
+  worker-data:
+  n8n-data:
+  caddy-data:
+  caddy-config:

@@ -23,6 +23,11 @@ class Settings(BaseSettings):
     log_level: str = "INFO"
     # Reject webhook payloads larger than this (bytes). Guards Redis/broker.
     max_payload_bytes: int = Field(default=256_000, description="Webhook body size guard")
+    # Which keyword-channel implementation the retriever calls. "hybrid_search"
+    # is the original AND-semantics RPC; "hybrid_search_v2" (migration 002) drops
+    # stopwords and ORs the remaining terms. Switching back is an env change, so
+    # a weaker result never requires a database rollback.
+    hybrid_search_rpc: str = Field(default="hybrid_search")
 
     # ----------------------------------------------------- Gemini (agent brain)
     # Backend: "google-api" = AI Studio API key (free tier: ~20 req/day/model —

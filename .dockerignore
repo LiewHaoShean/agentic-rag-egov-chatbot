@@ -1,0 +1,22 @@
+# Keep the build context small and keep secrets out of the image.
+.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+.git/
+.env
+.env.example
+
+# Local artefacts that have no place in a deployed image.
+previews/
+tests/
+migrations/
+knowledge/
+*.csv
+*_review.md
+report*.md
+appendix-*.txt
+*.docx
+FYPReport*
+TODO.md
+.pytest_cache/

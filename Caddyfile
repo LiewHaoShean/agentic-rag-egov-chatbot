@@ -1,0 +1,29 @@
+# Caddy terminates TLS and is the only process reachable from the internet.
+#
+# The certificate is obtained from Let's Encrypt automatically on first start and
+# renewed without intervention, which is what satisfies the WhatsApp Cloud API
+# requirement for a publicly trusted certificate. A self-signed certificate is
+# rejected by Meta, so the development tunnel cannot simply be swapped for a
+# plain HTTP listener.
+
+{$PUBLIC_HOST} {
+	# n8n is the only service exposed. The API, worker and Redis stay on the
+	# internal network and are never routable from outside the VM.
+	reverse_proxy n8n:5678
+
+	encode gzip
+
+	header {
+		Strict-Transport-Security "max-age=31536000"
+		X-Content-Type-Options "nosniff"
+		X-Frame-Options "SAMEORIGIN"
+		-Server
+	}
+
+	log {
+		output file /data/access.log {
+			roll_size 10MiB
+			roll_keep 5
+		}
+	}
+}

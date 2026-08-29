@@ -20,8 +20,15 @@ def retrieve(
     weight_vector: float = 1.0,
     weight_fts: float = 1.0,
     filter_category: str | None = None,
+    rpc_name: str | None = None,
 ) -> list[dict[str, Any]]:
-    """Embed the query (e5 query prefix) and run hybrid_search RRF in-DB."""
+    """Embed the query (e5 query prefix) and run hybrid RRF search in-DB.
+
+    rpc_name overrides which keyword-channel implementation is used, for A/B
+    evaluation. When omitted it follows settings.hybrid_search_rpc, so the whole
+    app can be switched between the two by one environment variable and switched
+    back without touching code or dropping anything in the database.
+    """
     query_embedding = embed_query(query_text)
     return hybrid_search(
         query_text=query_text,
@@ -32,4 +39,5 @@ def retrieve(
         weight_fts=weight_fts,
         filter_category=filter_category,
         only_public=True,
+        rpc_name=rpc_name or settings.hybrid_search_rpc,
     )
