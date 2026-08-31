@@ -254,10 +254,3 @@ callback URL, Langfuse keys.
 > The Supabase **service-role key** is server-side only — never expose it to clients.
 
 ---
-
-## Status
-
-Backend scaffolding and core agent logic are complete and syntax-clean. The
-ingestion toolkit is working end-to-end against live KWSP pages and PDFs.
-Outstanding items (e.g. live API response-shape verification for Qwen, the offline
-eval harness) are tracked in [`TODO.md`](TODO.md).
