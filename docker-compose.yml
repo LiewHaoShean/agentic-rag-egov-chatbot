@@ -49,7 +49,15 @@ services:
     # Concurrency 2 rather than the default (one process per CPU). Each task is
     # dominated by waiting on remote model APIs, not by local computation, and a
     # higher number multiplies the Vertex quota pressure seen during evaluation.
-    command: ["celery", "-A", "worker.celery_app", "worker", "--loglevel=info", "--concurrency=2"]
+    command:
+      [
+        "celery",
+        "-A",
+        "worker.celery_app",
+        "worker",
+        "--loglevel=info",
+        "--concurrency=2",
+      ]
     depends_on:
       redis:
         condition: service_healthy
@@ -68,9 +76,6 @@ services:
       WEBHOOK_URL: https://${PUBLIC_HOST}/
       N8N_PROXY_HOPS: 1
       GENERIC_TIMEZONE: Asia/Kuala_Lumpur
-      N8N_BASIC_AUTH_ACTIVE: "true"
-      N8N_BASIC_AUTH_USER: ${N8N_USER}
-      N8N_BASIC_AUTH_PASSWORD: ${N8N_PASSWORD}
     volumes:
       - n8n-data:/home/node/.n8n
     depends_on:
@@ -86,7 +91,7 @@ services:
       PUBLIC_HOST: ${PUBLIC_HOST}
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
-      - caddy-data:/data      # certificates, must persist or Let's Encrypt rate-limits
+      - caddy-data:/data # certificates, must persist or Let's Encrypt rate-limits
       - caddy-config:/config
     depends_on:
       - n8n

@@ -77,7 +77,7 @@ generate ─▶ validate ──grounded──▶ finalize ─▶ END
 | Translation + Vision/OCR | Qwen3-VL & Qwen ASR via Alibaba DashScope (HTTP) |
 | Embeddings | `intfloat/multilingual-e5-large-instruct`, **1024-dim**, Alibaba API primary + HuggingFace fallback |
 | Ingestion | Playwright + BeautifulSoup, `RecursiveCharacterTextSplitter`, pypdf + PyMuPDF |
-| Observability | Langfuse tracing (DeepEval/UpTrain offline — see `requirements-eval.txt`) |
+| Observability | Langfuse integration point present but **not enabled** — no keys are configured, so no traces are emitted |
 
 ---
 
@@ -247,8 +247,8 @@ ingestion path and query path can never drift apart:
 
 All settings load from `.env` via `core/config.py` (pydantic-settings). See
 [`.env.example`](.env.example) for the full list: Gemini, DashScope, embedding API
-+ HF fallback, Supabase URL + service-role key, Redis URL, `X-Webhook-Token`, n8n
-callback URL, Langfuse keys.
++ HF fallback, Supabase URL + service-role key, Redis URL, `X-Webhook-Token`, the
+n8n callback URL, and optional Langfuse keys (left blank, which disables tracing).
 
 > The Supabase **service-role key** is server-side only — never expose it to clients.
 
