@@ -25,7 +25,6 @@ All AI models are accessed via **remote APIs** — no local inference, no
 - [Embedding convention](#embedding-convention-critical)
 - [Agent design](#agent-design)
 - [Configuration](#configuration)
-- [Status](#status)
 
 ---
 
