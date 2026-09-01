@@ -596,7 +596,14 @@ _VALIDATE_SYSTEM = (
     "You are a strict groundedness judge for a RAG answer. Given the retrieved "
     "context and a drafted answer, decide if EVERY factual claim in the answer is "
     "supported by the context and the answer actually addresses the question. "
-    "If anything is unsupported or hallucinated, mark grounded=false."
+    "If anything is unsupported or hallucinated, mark grounded=false.\n\n"
+    "The answer is written in the user's language, which is often NOT the "
+    "language of the context: the corpus is English and Bahasa Melayu, while "
+    "users also write in Chinese. Translation is expected and correct "
+    "behaviour. Judge whether each claim's MEANING is supported, not whether "
+    "its wording appears in the context. A faithful translation of a supported "
+    "claim is grounded. Never mark an answer ungrounded merely because it is "
+    "in a different language from the passages."
 )
 
 
