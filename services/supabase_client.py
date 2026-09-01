@@ -165,6 +165,19 @@ def upsert_user_by_phone(phone_number: str) -> str:
     return res.data[0]["user_id"]
 
 
+# PostgreSQL text columns cannot hold a NUL byte, and PostgREST surfaces the
+# attempt as error 22P05 ("\\u0000 cannot be converted to text"). PDF text
+# extraction and OCR both emit NULs on some inputs, so an ordinary user
+# attachment could crash the whole task: the insert failed, Celery retried
+# three times, and the reply was never delivered. Stripping here covers every
+# caller rather than trusting each extractor to clean up after itself.
+def _pg_safe(text: str | None) -> str | None:
+    """Remove characters PostgreSQL rejects in a text column."""
+    if text is None:
+        return None
+    return text.replace("\x00", "")
+
+
 def save_message(
     conversation_id: str,
     role: str,
@@ -180,8 +193,8 @@ def save_message(
             {
                 "conversation_id": conversation_id,
                 "role": role,
-                "message": message,
-                "translate_message": translate_message,
+                "message": _pg_safe(message),
+                "translate_message": _pg_safe(translate_message),
                 "language": language,
                 "retrieved_chunk_ids": retrieved_chunk_ids or [],
             }
