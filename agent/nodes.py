@@ -770,6 +770,35 @@ def _strip_unsupported_links(text: str, chunks: list[dict]) -> tuple[str, list[s
     return "\n".join(lines), removed
 
 
+# WhatsApp rejects a text body over 4096 characters, and the Cloud API returns
+# an error rather than truncating, so the reply is lost entirely and the user
+# sees nothing. Long document checklists (the KWSP 9KM death-withdrawal form
+# produced 4,257 and 4,759 characters) crossed it while ordinary answers sat
+# comfortably under 800, which made the failure look intermittent. Cutting at a
+# paragraph boundary keeps the reply readable rather than ending mid-sentence.
+_WHATSAPP_MAX_CHARS = 4096
+_TRUNCATION_NOTICE = {
+    "Bahasa Melayu": "\n\n_Jawapan dipendekkan. Sila rujuk pautan rasmi di atas untuk senarai penuh._",
+    "English": "\n\n_Answer shortened. Please see the official link above for the full list._",
+}
+
+
+def _truncate_for_whatsapp(text: str, lang: str = "English") -> str:
+    """Keep the reply inside WhatsApp's hard body limit."""
+    if len(text) <= _WHATSAPP_MAX_CHARS:
+        return text
+    notice = _TRUNCATION_NOTICE.get(lang, _TRUNCATION_NOTICE["English"])
+    budget = _WHATSAPP_MAX_CHARS - len(notice)
+    cut = text[:budget]
+    # Prefer a paragraph break, then a line break, then a sentence end.
+    for sep in ("\n\n", "\n", ". ", " "):
+        idx = cut.rfind(sep)
+        if idx > budget * 0.6:
+            cut = cut[:idx]
+            break
+    return cut.rstrip() + notice
+
+
 def finalize_node(state: AgentState) -> AgentState:
     lang = _reply_language(state.get("user_text", ""))
     draft = state.get("draft_answer")
@@ -780,7 +809,7 @@ def finalize_node(state: AgentState) -> AgentState:
             # defect worth seeing in the worker output, not just suppressing.
             log.warning("dropped %d unsupported link(s): %s", len(dropped), dropped)
     state["reply"] = (
-        _format_for_whatsapp(draft) if draft
+        _truncate_for_whatsapp(_format_for_whatsapp(draft), lang) if draft
         else FALLBACK_MESSAGES.get(lang, FALLBACK_MESSAGE)
     )
     return state
