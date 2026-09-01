@@ -392,12 +392,14 @@ TARGET_URLS = [
     "https://www.jpn.gov.my/perkhidmatan/warganegara/",
     # The one FAQ topic the six already listed did not include.
     "https://www.jpn.gov.my/soalan-lazim/sladuan/",
-    # The MyKad hub itself. It was already in the database from an early run but
-    # had never been listed here, so it was the last page still carrying the old
-    # whole-document extraction. Its /informasi/mykad/struktur-baru-mykad/ child
-    # is deliberately absent: the card diagram is an image and the page yields
-    # 19 characters of text.
-    "https://www.jpn.gov.my/informasi/mykad/",
+    # NOTE: https://www.jpn.gov.my/informasi/mykad/ is deliberately NOT listed.
+    # That URL is claimed by knowledge/jpn-what-is-mykad.md, whose front-matter
+    # sets it as source_url, and ingestion is delete-by-file_url before insert.
+    # Scraping it therefore overwrites the curated trilingual definition with the
+    # hub page's navigation text, which is exactly the definitional content the
+    # curated document was written to supply. Its
+    # /informasi/mykad/struktur-baru-mykad/ child is also absent: the card
+    # diagram is an image and the page yields 19 characters of text.
 
     # ---- LHDN: coverage gaps found by diffing TARGET_URLS against
     #      hasil.gov.my/sitemap_index.xml (618 content pages against the 60

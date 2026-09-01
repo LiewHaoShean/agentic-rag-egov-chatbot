@@ -17,13 +17,24 @@ log = get_logger(__name__)
 # here are far more likely to be transcribed correctly. Users mix Malay
 # domain jargon into English/Chinese speech, which the model otherwise
 # mangles (e.g. "akaun persaraan" -> "account bazaar").
+# The list must cover every agency in the corpus. It originally named only
+# KWSP and LHDN terms, so PERKESO was transcribed as ordinary English words
+# and the retrieved chunks came back from the wrong agency.
 _ASR_CONTEXT = (
     "Malaysian government services vocabulary: KWSP, EPF, "
     "Kumpulan Wang Simpanan Pekerja, 公积金, Akaun Persaraan, "
     "Akaun Sejahtera, Akaun Fleksibel, Akaun 55, Akaun Emas, i-Emas, "
     "i-Akaun, i-Lindung, i-Saraan, caruman, pengeluaran, dividen, "
     "penama, LHDN, Lembaga Hasil Dalam Negeri, cukai, e-Filing, "
-    "PCB, EA form, borang, nombor cukai pendapatan, MyKad."
+    "PCB, EA form, borang, Borang BE, nombor cukai pendapatan, "
+    "CKHT, cukai keuntungan harta tanah, duti setem, "
+    "PERKESO, SOCSO, Pertubuhan Keselamatan Sosial, "
+    "Skim Bencana Pekerjaan, Skim Keilatan, Sistem Insurans Pekerjaan, "
+    "SIP, EIS, faedah hilang upaya, klinik panel, MyFutureJobs, "
+    "JPN, Jabatan Pendaftaran Negara, MyKad, MyKid, MyKAS, MyPR, "
+    "kad pengenalan, sijil kelahiran, sijil kematian, sijil perkahwinan, "
+    "pendaftaran kelahiran, pendaftaran kematian, perkahwinan, "
+    "perceraian, warganegara, kewarganegaraan, pengangkatan."
 )
 
 
